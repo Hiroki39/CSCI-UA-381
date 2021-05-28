@@ -1,0 +1,134 @@
+<doc>
+<docno>br-j79</docno>
+<txt>
+<p>
+<s snum=1>The set of all decisions is called the operating policy or, more simply, the policy.</s>
+<s snum=2>An optimal policy is one which in some sense gets the best out of the process as a whole by maximizing the value of the product.</s>
+<s snum=3>There are thus three components to an optimal design problem:</s>
+</p>
+<hl>(1)</hl>
+<p>
+<s snum=4>The specification of the state of the process stream; </s>
+</p>
+<hl>(2)</hl>
+<p>
+<s snum=5>The specification of the operating variables and the transformation they effect; </s>
+</p>
+<hl>(3)</hl>
+<p>
+<s snum=6>The specification of the objective function of which the optimization is desired.</s>
+<s snum=7>For a chemical process the first of these might involve the concentrations of the different chemical species, and the temperature or pressure of the stream.</s>
+<s snum=8>For the second we might have to choose the volume of reactor or amount of cooling to be supplied; the way in which the transformation of state depends on the operating variables for the main types of reactors is discussed in the next chapter.</s>
+<s snum=9>The objective function is some measure of the increase in value of the stream by processing; it is the subject of Chapter 4.</s>
+</p>
+<p>
+<s snum=10>The essential characteristic of an optimal policy when the state of the stream is transformed in a sequence of stages with no feedback was first isolated by Bellman.</s>
+<s snum=11>He recognized that whatever transformation may be effected in the first stage of an ~R-stage process, the remaining stages must use an optimal **f-stage policy with respect to the state resulting from the first stage, if there is to be any chance of optimizing the complete process.</s>
+<s snum=12>Moreover, by systematically varying the operating conditions in the first stage and always using the optimal **f-stage policy for the remaining stages, we shall eventually find the optimal policy for all ~R stages.</s>
+<s snum=13>Proceeding in this way, from one to two and from two to three stages, we may gradually build up the policy for any number.</s>
+<s snum=14>At each step of the calculation the operating variables of only one stage need be varied.</s>
+</p>
+<p>
+<s snum=15>To see how important this economy is, let us suppose that there are ~m operating variables at each stage and that the state is specified by ~n variables; then the search for the maximum at any one stage will require a number of operations of order **f (where ~a is some number not unreasonably large).</s>
+<s snum=16>To proceed from one stage to the next a sufficient number of feed states must be investigated to allow of interpolation; this number will be of the order of **f.</s>
+<s snum=17>If, however, we are seeking the optimal ~R-stage policy for a given feed state, only one search for a maximum is required at the final step.</s>
+<s snum=18>Thus a number of operations of the order of **f are required.</s>
+<s snum=19>If all the operating variables were varied simultaneously, **f operations would be required to do the same job, and as ~R increases this increases very much more rapidly than the number of operations required by the dynamic program.</s>
+<s snum=20>But even more important than this is the fact that the direct search by simultaneously varying all operating conditions has produced only one optimal policy, namely, that for the given feed state and ~R stages.</s>
+<s snum=21>In contrast, the dynamic program produces this policy and a whole family of policies for any smaller number of stages.</s>
+<s snum=22>If the problem is enlarged to require a complete coverage of feed states, **f operations are needed by the dynamic program and **f by the direct search.</s>
+<s snum=23>But **f is vastly larger than ~R.</s>
+<s snum=24>No optimism is more baseless than that which believes that the high speed of modern digital computers allows for use of the crudest of methods in searching out a result.</s>
+<s snum=25>Suppose that **f, and that the average operation requires only **f sec..</s>
+<s snum=26>Then the dynamic program would require about a minute whereas the direct search would take more than three millennia!</s>
+</p>
+<p>
+<s snum=27>The principle of optimality thus brings a vital organization into the search for the optimal policy of a multistage decision process.</s>
+<s snum=28>Bellman (1957) has annunciated in the following terms:</s>
+</p>
+<p>
+<s snum=29>``An optimal policy has the property that whatever the initial state and initial decision are, the remaining decisions must constitute an optimal policy with respect to the state resulting from the first decision''.</s>
+</p>
+<p>
+<s snum=30>This is the principle which we will invoke in every case to set up a functional equation.</s>
+<s snum=31>It appears in a form that is admirably suited to the powers of the digital computer.</s>
+<s snum=32>At the same time, every device that can be employed to reduce the number of variables is of the greatest value, and it is one of the attractive features of dynamic programming that room is left for ingenuity in using the special features of the problem to this end.</s>
+</p>
+<hl>2.2 THE DISCRETE DETERMINISTIC PROCESS</hl>
+<p>
+<s snum=33>Consider the process illustrated in Fig. 2.1, consisting of ~R distinct stages.</s>
+<s snum=34>These will be numbered in the direction opposite to the flow of the process stream, so that stage ~r is the ~rth stage from the end.</s>
+<s snum=35>Let the state of the stream leaving stage ~r be denoted by a vector **f and the operating variables of stage ~r by **f.</s>
+<s snum=36>Thus **f denotes the state of the feed to the ~R-stage process, and **f the state of the product from the last stage.</s>
+<s snum=37>Each stage transforms the state **f of its feed to the state **f in a way that depends on the operating variables **f.</s>
+<s snum=38>We write this **f.</s>
+<s snum=39>This transformation is uniquely determined by **f and we therefore speak of the process as deterministic.</s>
+<s snum=40>In practical situations there will be restrictions on the admissible operating conditions, and we regard the vectors as belonging to a fixed and bounded set ~S.</s>
+<s snum=41>The set of vectors **f constitutes the operating policy or, more briefly, the policy, and a policy is admissible if all the **f belong to ~S.</s>
+<s snum=42>When the policy has been chosen the state of the product can be obtained from the state of the feed by repeated application of the transformation (1); thus **f.</s>
+<s snum=43>The objective function, which is to be maximized, is some function, usually piecewise continuous, of the product state.</s>
+<s snum=44>Let this be denoted by **f.</s>
+</p>
+<p>
+<s snum=45>An optimal policy is an admissible policy **f which maximizes the objective function ~P.</s>
+<s snum=46>The policy may not be unique but the maximum value of ~P certainly is, and once the policy is specified this maximum can be calculated by (2) and (3) as a function of the feed state **f.</s>
+<s snum=47>Let **f where the maximization is over all admissible policies **f.</s>
+<s snum=48>When it is necessary to be specific we say that the optimal policy is an optimal ~R-stage policy with respect to the feed state **f.</s>
+</p>
+<p>
+<s snum=49>For any choice of admissible policy **f in the first stage, the state of the stream leaving this stage is given by **f.</s>
+<s snum=50>This is the feed state of the subsequent **f stages which, according to the principle of optimality, must use an optimal **f-stage policy with respect to this state.</s>
+<s snum=51>This will result in a value **f of the objective function, and when **f is chosen correctly this will give **f, the maximum of the objective function.</s>
+<s snum=52>Thus **f where the maximization is over all admissible policies **f, and **f is related to **f by (5).</s>
+<s snum=53>The sequence of equations (6) can be solved for **f when **f is known, and clearly **f, the maximization being over all admissible **f.</s>
+</p>
+<p>
+<s snum=54>The set of equations (5), (6), and the starting equation (7) is of a recursive type well suited to programming on the digital computer.</s>
+<s snum=55>In finding the optimal ~R-stage policy from that of **f stages, only the function **f is needed.</s>
+<s snum=56>When **f has been found it may be transferred into the storage location of **f and the whole calculation repeated.</s>
+<s snum=57>We also see how the results may be presented, although if ~n, the number of state variables, is large any tabulation will become cumbersome.</s>
+<s snum=58>A table or set of tables may be set out as in Table 2.1.</s>
+</p>
+<p>
+<s snum=59>To extract the optimal ~R-stage policy with respect to the feed state **f, we enter section ~R of this table at the state **f and find immediately from the last column the maximum value of the objective function.</s>
+<s snum=60>In the third column is given the optimal policy for stage ~R, and in the fourth, the resulting state of the stream when this policy is used.</s>
+<s snum=61>Since by the principle of optimality the remaining stages use an optimal **f-stage policy with respect to **f, we may enter section **f of the table at this state **f and read off the optimal policy for stage **f and the resulting state **f.</s>
+<s snum=62>Proceeding in this way up the table we extract the complete optimal policy and, if it is desired, we can check on **f by evaluating **f at the last stage.</s>
+</p>
+<p>
+<s snum=63>It may be that the objective function depends not only on **f but also on **f, as when the cost of the operating policy is considered.</s>
+<s snum=64>A moment's reflection shows that the above algorithm and presentation work equally well in this case.</s>
+<s snum=65>A form of objective function that we shall often have occasion to consider is **f.</s>
+<s snum=66>Here ~V(p) represents the value of the stream in state ~p and ~C(q) the cost of operating the stage with conditions ~q.</s>
+<s snum=67>Hence ~P is the increase in value of the stream minus the cost of operation, that is, the net profit.</s>
+<s snum=68>If **f denotes the net profit from stage ~r and **f then the principle of optimality gives **f This sequence of equations may be started with the remark that with no process **f there is no profit, i.e., **f.</s>
+</p>
+<hl>2.3 THE DISCRETE STOCHASTIC PROCESS</hl>
+<p>
+<s snum=69>The process in which the outcome of any one stage is known only statistically is also of interest, although for chemical reactor design it is not as important as the deterministic process.</s>
+<s snum=70>In this case the stage ~r operating with conditions **f transforms the state of the stream from **f to **f, but only the probability distribution of **f is known.</s>
+<s snum=71>This is specified by a distribution function **f such that the probability that **f lies in some region ~D of the stage space is **f.</s>
+</p>
+<p>
+<s snum=72>We cannot now speak of maximizing the value of the objective function, since this function is now known only in a probabilistic sense.</s>
+<s snum=73>We can, however, maximize its expected value.</s>
+<s snum=74>For a single stage we may define **f where the maximization is by choice of **f.</s>
+<s snum=75>We thus have an optimal policy which maximizes the expected value of the objective function for a given **f.</s>
+<s snum=76>If we consider a process in which the outcome of one stage is known before passage to the next, then the principle of optimality shows that the policy in subsequent stages should be optimal with respect to the outcome of the first.</s>
+<s snum=77>Then **f, the maximization being over all admissible **f and the integration over the whole of stage space.</s>
+</p>
+<p>
+<s snum=78>The type of presentation of results used in the deterministic process may be used here, except that now the fourth column is redundant.</s>
+<s snum=79>The third column gives the optimal policy, but we must wait to see the outcome of stage ~R and enter the preceding section of the table at this state.</s>
+<s snum=80>The discussion of the optimal policy when the outcome of one stage is not known before passing to the next is a very much more difficult matter.</s>
+</p>
+<hl>2.4 THE CONTINUOUS DETERMINISTIC PROCESS</hl>
+<p>
+<s snum=81>In many cases it is not possible to divide the process into a finite number of discrete stages, since the state of the stream is transformed in a continuous manner through the process.</s>
+<s snum=82>We replace ~r, the number of the stage from the end of the process, by ~t, a continuous variable which measures the ``distance'' of the point considered from the end of the process.</s>
+<s snum=83>The word distance is used here in a rather general sense; it may in fact be the time that will elapse before the end of the process.</s>
+<s snum=84>If ~T is the total ``length'' of the process, its feed state may be denoted by a vector ~p(T) and the product state by ~p(O).</s>
+<s snum=85>~p(t)denotes the state at any point ~t and ~q(t) the vector of operating variables there.</s>
+</p>
+</txt>
+</doc>

@@ -1,0 +1,73 @@
+>>> blanks('blanks_input.txt','blanks_output.txt')
+What would you like your Blanks game to be about? bay of fundy
+Choose a category for the word: french
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: adjective
+Choose a category for the word: canadian
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: adjective
+Choose a category for the word: baie
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: place name
+Choose a category for the word: fundy
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: place name
+Choose a category for the word: nova
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: place name
+Choose a category for the word: portion
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: singular noun
+Choose a category for the word: bay
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: singular noun
+Choose a category for the word: new
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: adjective
+Choose a category for the word: between
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: adverb
+Choose a category for the word: brunswick
+*************************
+Possible categories include:
+person name, organization name, place name, other name, singular noun, 
+plural noun, past tense verb, -ing verb, -s verb, simple verb, 
+adjective, adverb, Your Choice: place name
+Give me a word belonging to the category: adjective yellow
+Give me a word belonging to the category: adjective slimy
+Give me a word belonging to the category: place name Brooklyn
+Give me a word belonging to the category: place name China
+Give me a word belonging to the category: place name Greenwich Village
+Give me a word belonging to the category: singular noun house
+Give me a word belonging to the category: singular noun balloon
+Give me a word belonging to the category: adjective bouncy
+Give me a word belonging to the category: adverb repeatedly
+Give me a word belonging to the category: place name New Jersey
+>>> 

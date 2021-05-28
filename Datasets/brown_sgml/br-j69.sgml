@@ -1,0 +1,173 @@
+<doc>
+<docno>br-j69</docno>
+<txt>
+<p>
+<s snum=1>The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items: channel, unit, combined channel and unit, combined arm and file, unit record synchronizers, inquiry synchronizers, and alteration switches.</s>
+<s snum=2>The declarative operation ~EQU is used to equate symbolic names to item numbers (see page 85).</s>
+</p>
+<hl>CONTINUATION CARDS</hl>
+<p>
+<s snum=3>Certain Autocoder statements make provision for more parameters than may be contained in the operand (columns 21-75) of a single line on the Autocoder coding sheet.</s>
+<s snum=4>When this is the case, the appropriate section of this manual will indicate that ``Continuation Cards'' may be used.</s>
+<s snum=5>Thus, when specifically permitted, the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow.</s>
+</p>
+<p>
+<s snum=6>The label and operation columns must be blank and the continuation of the operand must begin in column 21; i.e., it must be left-justified in the operand column of the coding sheet.</s>
+<s snum=7>The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter.</s>
+<s snum=8>Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces.</s>
+</p>
+<p>
+<s snum=9>Illustration of the use of continuation cards are included throughout the examples illustrating the various statements.</s>
+</p>
+<p>
+<s snum=10>If a continuation card follows a statement that does not permit continuation cards, the compiler will generate a ~NOP and issue an error message.</s>
+<s snum=11>Additional restrictions regarding the use of continuation cards with macro-instructions appear on page 106.</s>
+</p>
+<hl>RESERVATION OF INDEX WORDS AND ELECTRONIC SWITCHES</hl>
+<p>
+<s snum=12>The assignment of actual addresses to symbolic index word and electronic switch names occurs in Phase /3, of the Autocoder processor.</s>
+<s snum=13>The initial availability of index words and electronic switches is determined by a table which is included in the Compiler Systems Tape.</s>
+<s snum=14>This table originally indicates that index words 1 through 96 and electronic switches 1 through 30 are available for assignment to symbolic references; index words 97 through 99 are not available.</s>
+<s snum=15>The initial setting of this table may be altered, however, as described in the 7070/7074 Data Processing System Bulletin ``~IBM 7070/7074 Compiler System: Operating Procedure'', form ~J28-6105.</s>
+</p>
+<p>
+<s snum=16>During the first pass of Phase /3,, references to the actual addresses of index words and electronic switches are collected and the availability table is updated.</s>
+<s snum=17>At the end of this pass, the table indicates which index words and electronic switches are not available for assignment to symbolic references.</s>
+</p>
+<p>
+<s snum=18>Both index words and electronic switches may have been made unavailable before the start of assignment in one of the following ways:</s>
+</p>
+<hl>1.</hl>
+<p>
+<s snum=19>The initial setting of the availability table indicated that the index word or electronic switch was not available for assignment.</s>
+</p>
+<hl>2.</hl>
+<p>
+<s snum=20>The one- two-digit number of the index word or electronic switch was used in the operand of a symbolic machine instruction to specify indexing or as a parameter which is always an index word or electronic switch, e.g., @ </s>
+</p>
+<hl>3.</hl>
+<p>
+<s snum=21>The one- or two-digit number of the index word or electronic switch was used in the operand of an ~EQU statement, e.g., @ </s>
+</p>
+<p>
+<s snum=22>When the index words or electronic switches are reserved because of actual usage in the statements described above, the position or order of the statements within the program is not important; any such reference will make the index word or electronic switch unavailable at the end of this pass.</s>
+</p>
+<p>
+<s snum=23>During the assignment pass of Phase /3,, index words and electronic switches are reserved as they are encountered during assignment.</s>
+<s snum=24>Index words and electronic switches may be reserved in the following ways.</s>
+<s snum=25>The first two methods apply to both index words and electronic switches; the third applies only to index words.</s>
+</p>
+<hl>1.</hl>
+<p>
+<s snum=26>During the assignment pass, each instruction is examined for reference to the symbolic name of an index word or electronic switch.</s>
+<s snum=27>When such a reference is found, an actual address is assigned and the availability table is changed so that the assigned index word or switch is no longer available for later assignment.</s>
+</p>
+<hl>2.</hl>
+<p>
+<s snum=28>If the one- or two-digit address of an index word or electronic switch is used or is included in the operand of an ~XRESERVE or ~SRESERVE statement (see page 99), the corresponding index word or electronic switch is reserved.</s>
+</p>
+<hl>3.</hl>
+<p>
+<s snum=29>If a statement has been assigned an address in the index word area </s>
+</p>
+<hl>A.</hl>
+<p>
+<s snum=30>by means of an actual label or </s>
+</p>
+<hl>B.</hl>
+<p>
+<s snum=31>by means of an ~ORIGIN statement which refers to an actual address the corresponding index word will be reserved.</s>
+<s snum=32>These entries should normally appear at the beginning of the program or immediately following each ~LITORIGIN statement.</s>
+<s snum=33>Otherwise, symbolic names may have previously been assigned to these same index words.</s>
+<s snum=34>(This method does not apply to electronic switches.)</s>
+</p>
+<p>
+<s snum=35>The preceding methods allow efficient use of index words and electronic switches during a sectionalized or multi-phase program, particularly when used in conjunction with the ~LITORIGIN statement.</s>
+<s snum=36>Extreme caution should be used, however, to avoid the conflicting usage of an index word or electronic switch which may result from the assignment of more than one name or function to the same address.</s>
+</p>
+<p>
+<s snum=37>If the symbolic name or actual address of an index word or electronic switch appears or is included in the operand of an ~XRELEASE or ~SRELEASE statement (see page 101), the specified index word or electronic switch will again be made available, regardless of the method by which it was reserved.</s>
+<s snum=38>It will not, however, be used for symbolic assignment until all other index words or electronic switches have been assigned for the first time.</s>
+</p>
+<p>
+<s snum=39>If, at any time during the assignment pass, the compiler finds that there are no more index words available for assignment, the warning message ``no more index words available'' will be placed in the object program listing, the table will be altered to show that index words 1 through 96 are available, and the assignment will continue as before.</s>
+<s snum=40>If the compiler finds that there are no more electronic switches available for assignment, the warning message ``no more electronic switches available'' will be placed in the object program listing, the table will be altered to show that electronic switches 1 through 30 are available, and assignment will continue as before.</s>
+<s snum=41>The resultant conflicting usage of index words or electronic switches may be avoided by reducing the number of symbolic names used, e.g., through the proper use of the ~EQU, ~XRELEASE, or ~SRELEASE statements.</s>
+</p>
+<p>
+<s snum=42>As noted in Appendix ~C, index words 97 through 99 are never available for assignment to symbolic names by the compiler; also, index words 93 through 96 may have been made unavailable for assignment.</s>
+</p>
+<hl>DECLARATIVE STATEMENTS</hl>
+<p>
+<s snum=43>Autocoder declarative statements provide the processor with the necessary information to complete the imperative operations properly.</s>
+<s snum=44>Declarative statements are never executed in the object program and should be separated from the program instruction area, placed preferably at its beginning or end.</s>
+<s snum=45>Otherwise, special care must be taken to branch around them so that the program will not attempt to execute something in a data area as an instruction.</s>
+<s snum=46>If the compiler does encounter such statements, a warning message will be issued.</s>
+<s snum=47>7070/7074Autocoder includes the following declarative statements:</s>
+<s snum=48>~DA (Define Area), ~DC (Define Constant), ~DRDW (Define Record Definition Word), ~DSW (Define Switch), ~DLINE (Define Line), ~EQU (Equate), CODE, ~DTF (Define Tape File), ~DIOCS (Define Input/Output Control System), and ~DUF (Descriptive Entry for Unit Records).</s>
+<s snum=49>~DA, ~DC, ~DTF, and ~DLINE require more than one entry.</s>
+</p>
+<p>
+<s snum=50>The ~DA statement is used to name and define the positions and length of fields within an area.</s>
+<s snum=51>The ~DC statement is used to name and enter constants into the object program.</s>
+<s snum=52>Since the 7070 and 7074 make use of record definition words (~RDWS) to read, write, move, and otherwise examine blocks of storage, the ~DA and ~DC statements provide the option of generating ~RDWS automatically.</s>
+<s snum=53>When so instructed, Autocoder will generate one or more ~RDWS and assign them successive locations immediately preceding the area(s) with which they are to be associated.</s>
+<s snum=54>An ~RDW will be of the form **f, where ~xxxx is the starting location of the area and ~yyyy is its ending location.</s>
+<s snum=55>These addresses are calculated automatically by the processor.</s>
+</p>
+<p>
+<s snum=56>In some cases, it may be more advantageous to assign locations to ~RDWS associated with ~DA and ~DC areas in some other part of storage, i.e., not immediately preceding the ~DA or ~DC areas.</s>
+<s snum=57>The ~DRDW statement may be used for this purpose.</s>
+<s snum=58>The ~DRDW statement may also be used to generate an ~RDW defining any area specified by the programmer.</s>
+</p>
+<p>
+<s snum=59>As many as ten digital switches may be named and provided by the ~DSW statement for consideration by the ~SETSW and LOGIC macro-instructions.</s>
+<s snum=60>Each switch occupies one digit position in a word, can be set on or off, and is considered as logically equivalent to an electronic switch.</s>
+<s snum=61>It cannot, however, be referred to by electronic switch commands, e.g., ~ESN, ~BSN, etc..</s>
+<s snum=62>An individual switch or the entire set of switches in a word may be tested or altered as desired.</s>
+</p>
+<p>
+<s snum=63>Through use of the ~DLINE statement, a means is provided for specifying both the editing of fields to be inserted in a print line area and the layout of the area itself.</s>
+<s snum=64>The area may include constant information supplied by the programmer.</s>
+<s snum=65>The area may also be provided with additional data during the running of the object program by means of ~EDMOV or MOVE macro-instructions.</s>
+</p>
+<p>
+<s snum=66>The declarative statement ~EQU permits the programmer to equate symbolic names to actual index words, electronic switches, arm and file numbers, tape channel and unit numbers, alteration switches, etc., and to equate a symbol to another symbol or to an actual address.</s>
+</p>
+<p>
+<s snum=67>The ~DIOCS, ~DTF, and ~DUF statements are used when required by the Input/Output Control System.</s>
+<s snum=68>~DIOCS is used to select the major methods of processing to be used, and to name the index words used by ~IOCS.</s>
+<s snum=69>Each tape file must be described by Tape File Specifications, produced by ~DTFS.</s>
+<s snum=70>In addition to information related to the file and its records, the File Specifications contain subroutine locations and the location of tape label information.</s>
+<s snum=71>A ~DUF entry must be supplied for every unit record file describing the type of file and the unit record equipment to be used.</s>
+<s snum=72>The ~DUF also supplies the locations of subroutines written by the user that are unique to the file.</s>
+</p>
+<p>
+<s snum=73>A full description of the ~DIOCS, ~DTF, and ~DUF statements is contained in the 7070 Data Processing system Bulletin ``~IBM 7070 Input/Output Control System'', form ~J28-6033-1.</s>
+<s snum=74>Brief descriptions of these three declarative statements and detailed descriptions of the formats and functions of each of the other 7070/7074Autocoder declarative statements follow below.</s>
+</p>
+<hl>~DIOCS- DEFINE INPUT/OUTPUT CONTROL SYSTEM</hl>
+<p>
+<s snum=75>When the Input/Output Control System is to be used in a program, a ~DIOCS statement must be used to select the major methods of processing to be used.</s>
+<s snum=76>This statement also allows the naming of the index words used by ~IOCS.</s>
+</p>
+<hl>SOURCE PROGRAM FORMAT</hl>
+<p>
+<s snum=77>The basic format of the ~DIOCS statement is as follows:</s>
+<s snum=78>  ~ANYLABEL is any symbolic label; it may be omitted.</s>
+<s snum=79>The entry ~DIOCS must be written exactly as shown.</s>
+</p>
+<p>
+<s snum=80>The first item in the operand, ~IOCSIXF, is used to specify the first ~IOCS index word for programs using tape files.</s>
+<s snum=81>This item may be a symbolic name or an actual one-digit or two-digit index word address in the range 3-94.</s>
+<s snum=82>If the first item in the operand is omitted, the symbolic name ~IOCSIXF will be assigned.</s>
+<s snum=83>When an actual index word or a symbolic address is specified, Autocoder will equate the name ~IOCSIXF to it.</s>
+</p>
+<p>
+<s snum=84>The second item in the operand, ~IOCSIXG, is used to specify the second ~IOCS index word for programs using tape files.</s>
+<s snum=85>This item may be a symbolic name or an actual one-digit or two-digit index word address in the range 3-94.</s>
+<s snum=86>If the second item in the operand is omitted, the symbolic name ~IOCSIXG will be assigned.</s>
+<s snum=87>When an actual index word or a symbolic address is specified, Autocoder will equate ~IOCSIXG to it.</s>
+</p>
+</txt>
+</doc>

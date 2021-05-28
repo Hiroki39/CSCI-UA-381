@@ -1,0 +1,16 @@
+clear all;
+clc;
+for n=1:10
+
+image_{n}= imread(sprintf('image00%s.png',num2str(n)));
+threshold = 128;
+Igray = rgb2gray(Irgb);
+Ibw = Igray>threshold;
+end
+
+%Irgb = imread('Brown/16.jpg');
+threshold = 128;
+Igray = rgb2gray(Irgb);
+Ibw = Igray>threshold;
+imshow(Ibw);
+imwrite(Ibw,'b16.jpg');

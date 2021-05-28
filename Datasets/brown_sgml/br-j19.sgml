@@ -1,0 +1,171 @@
+<doc>
+<docno>br-j19</docno>
+<txt>
+<hl>7-1.EXAMPLES OF BINOMIAL EXPERIMENTS</hl>
+<p>
+<s snum=1>Some experiments are composed of repetitions of independent trials, each with two possible outcomes.</s>
+<s snum=2>The binomial probability distribution may describe the variation that occurs from one set of trials of such a binomial experiment to another.</s>
+<s snum=3>We devote a chapter to the binomial distribution not only because it is a mathematical model for an enormous variety of real life phenomena, but also because it has important properties that recur in many other probability models.</s>
+<s snum=4>We begin with a few examples of binomial experiments.</s>
+</p>
+<hl>MARKSMANSHIP EXAMPLE.</hl>
+<p>
+<s snum=5>A trained marksman shooting five rounds at a target, all under practically the same conditions, may hit the bull's-eye from 0 to 5 times.</s>
+<s snum=6>In repeated sets of five shots his numbers of bull's-eyes vary.</s>
+<s snum=7>What can we say of the probabilities of the different possible numbers of bull's-eyes?</s>
+</p>
+<hl>INHERITANCE IN MICE.</hl>
+<p>
+<s snum=8>In litters of eight mice from similar parents, the number of mice with straight instead of wavy hair is an integer from 0 to 8.</s>
+<s snum=9>What probabilities should be attached to these possible outcomes?</s>
+</p>
+<hl>ACES (ONES) WITH THREE DICE.</hl>
+<p>
+<s snum=10>When three dice are tossed repeatedly, what is the probability that the number of aces is 0 (or 1, or 2, or 3)?</s>
+</p>
+<hl>GENERAL BINOMIAL PROBLEM.</hl>
+<p>
+<s snum=11>More generally, suppose that an experiment consists of a number of independent trials, that each trial results in either a ``success'' or a ``non-success'' (``failure''), and that the probability of success remains constant from trial to trial.</s>
+<s snum=12>In the examples above, the occurrence of a bull's-eye, a straight-haired mouse, or an ace could be called a ``success''.</s>
+<s snum=13>In general, any outcome we choose may be labeled ``success''.</s>
+</p>
+<p>
+<s snum=14>The major question in this chapter is: What is the probability of exactly ~x successes in ~n trials?</s>
+</p>
+<p>
+<s snum=15>In Chapters 3 and 4 we answered questions like those in the examples, usually by counting points in a sample space.</s>
+<s snum=16>Fortunately, a general formula of wide applicability solves all problems of this kind.</s>
+<s snum=17>Before deriving this formula, we explain what we mean by ``problems of this kind''.</s>
+</p>
+<p>
+<s snum=18>Experiments are often composed of several identical trials, and sometimes experiments themselves are repeated.</s>
+<s snum=19>In the marksmanship example, a trial consists of ``one round shot at a target'' with outcome either one bull's-eye (success) or none (failure).</s>
+<s snum=20>Further, an experiment might consist of five rounds, and several sets of five rounds might be regarded as a super-experiment composed of several repetitions of the five-round experiment.</s>
+<s snum=21>If three dice are tossed, a trial is one toss of one die and the experiment is composed of three trials.</s>
+<s snum=22>Or, what amounts to the same thing, if one die is tossed three times, each toss is a trial, and the three tosses form the experiment.</s>
+<s snum=23>Mathematically, we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times.</s>
+<s snum=24>These examples are illustrative of the use of the words ``trial'' and ``experiment'' as they are used in this chapter, but they are quite flexible words and it is well not to restrict them too narrowly.</s>
+</p>
+<hl>EXAMPLE 1.STUDENT FOOTBALL MANAGERS.</hl>
+<p>
+<s snum=25>Ten students act as managers for a high-school football team, and of these managers a proportion ~p are licensed drivers.</s>
+<s snum=26>Each Friday one manager is chosen by lot to stay late and load the equipment on a truck.</s>
+<s snum=27>On three Fridays the coach has needed a driver.</s>
+<s snum=28>Considering only these Fridays, what is the probability that the coach had drivers all 3 times?</s>
+<s snum=29>Exactly 2 times?</s>
+<s snum=30>1 time?</s>
+<s snum=31>0 time?</s>
+</p>
+<hl>DISCUSSION.</hl>
+<p>
+<s snum=32>Note that there are 3 trials of interest.</s>
+<s snum=33>Each trial consists of choosing a student manager at random.</s>
+<s snum=34>The 2 possible outcomes on each trial are ``driver'' or ``nondriver''.</s>
+<s snum=35>Since the choice is by lot each week, the outcomes of different trials are independent.</s>
+<s snum=36>The managers stay the same, so that **f is the same for all weeks.</s>
+<s snum=37>We now generalize these ideas for general binomial experiments.</s>
+</p>
+<p>
+<s snum=38>For an experiment to qualify as a binomial experiment, it must have four properties: (1) there must be a fixed number of trials, (2) each trial must result in a ``success'' or a ``failure'' (a binomial trial), (3) all trials must have identical probabilities of success, (4) the trials must be independent of each other.</s>
+<s snum=39>Below we use our earlier examples to describe and illustrate these four properties.</s>
+<s snum=40>We also give, for each property, an example where the property is absent.</s>
+<s snum=41>The language and notation introduced are standard throughout the chapter.</s>
+</p>
+<hl>1.THERE MUST BE A FIXED NUMBER ~N OF REPEATED TRIALS.</hl>
+<p>
+<s snum=42>For the marksman, we study sets of five shots (**f); for the mice, we restrict attention to litters of eight (**f); and for the aces, we toss three dice (**f).</s>
+</p>
+<hl>EXPERIMENT WITHOUT A FIXED NUMBER OF TRIALS.</hl>
+<p>
+<s snum=43>Toss a die until an ace appears.</s>
+<s snum=44>Here the number of trials is a random variable, not a fixed number.</s>
+</p>
+<hl>2.BINOMIAL TRIALS.</hl>
+<p>
+<s snum=45>Each of the ~n trials is either a success or a failure.</s>
+<s snum=46>``Success'' and ``failure'' are just convenient labels for the two categories of outcomes when we talk about binomial trials in general.</s>
+<s snum=47>These words are more expressive than labels like ``~A'' and ``not-~A''.</s>
+<s snum=48>It is natural from the marksman's viewpoint to call a bull's-eye a success, but in the mice example it is arbitrary which category corresponds to straight hair in a mouse.</s>
+<s snum=49>The word ``binomial'' means ``of two names'' or ``of two terms'', and both usages apply in our work: the first to the names of the two outcomes of a binomial trial, and the second to the terms ~p and **f that represent the probabilities of ``success'' and ``failure''.</s>
+<s snum=50>Sometimes when there are many outcomes for a single trial, we group these outcomes into two classes, as in the example of the die, where we have arbitrarily constructed the classes ``ace'' and ``not-ace''.</s>
+</p>
+<hl>EXPERIMENT WITHOUT THE TWO-CLASS PROPERTY.</hl>
+<p>
+<s snum=51>We classify mice as ``straight-haired'' or ``wavy-haired'', but a hairless mouse appears.</s>
+<s snum=52>We can escape from such a difficulty by ruling out the animal as not constituting a trial, but such a solution is not always satisfactory.</s>
+</p>
+<hl>3.ALL TRIALS HAVE IDENTICAL PROBABILITIES OF SUCCESS.</hl>
+<p>
+<s snum=53>Each die has probability **f of producing an ace; the marksman has some probability ~p, perhaps 0.1, of making a bull's-eye.</s>
+<s snum=54>Note that we need not know the value of ~p, for the experiment to be binomial.</s>
+</p>
+<hl>EXPERIMENT WHERE ~P IS NOT CONSTANT.</hl>
+<p>
+<s snum=55>During a round of target practice the sun comes from behind a cloud and dazzles the marksman, lowering his chance of a bull's-eye.</s>
+</p>
+<hl>4.THE TRIALS ARE INDEPENDENT.</hl>
+<p>
+<s snum=56>Strictly speaking, this means that the probability for each possible outcome of the experiment can be computed by multiplying together the probabilities of the possible outcomes of the single binomial trials.</s>
+<s snum=57>Thus in the three-dice example **f, **f, and the independence assumption implies that the probability that the three dice fall ace, not-ace, ace in that order is (1/6)(5/6)(1/6).</s>
+<s snum=58>Experimentally, we expect independence when the trials have nothing to do with one another.</s>
+</p>
+<hl>EXAMPLES WHERE INDEPENDENCE FAILS.</hl>
+<p>
+<s snum=59>A family of five plans to go together either to the beach or to the mountains, and a coin is tossed to decide.</s>
+<s snum=60>We want to know the number of people going to the mountains.</s>
+<s snum=61>When this experiment is viewed as composed of five binomial trials, one for each member of the family, the outcomes of the trials are obviously not independent.</s>
+<s snum=62>Indeed, the experiment is better viewed as consisting of one binomial trial for the entire family.</s>
+<s snum=63>The following is a less extreme example of dependence.</s>
+<s snum=64>Consider couples visiting an art museum.</s>
+<s snum=65>Each person votes for one of a pair of pictures to receive a popular prize.</s>
+<s snum=66>Voting for one picture may be called ``success'', for the other ``failure''.</s>
+<s snum=67>An experiment consists of the voting of one couple, or two trials.</s>
+<s snum=68>In repetitions of the experiment from couple to couple, the votes of the two persons in a couple probably agree more often than independence would imply, because couples who visit the museum together are more likely to have similar tastes than are a random pair of people drawn from the entire population of visitors.</s>
+<s snum=69>Table 7-1 illustrates the point.</s>
+<s snum=70>The table shows that 0.6 of the boys and 0.6 of the girls vote for picture ~A.</s>
+<s snum=71>Therefore, under independent voting, **f or 0.36 of the couples would cast two votes for picture ~A, and **f or 0.16 would cast two votes for picture ~B.</s>
+<s snum=72>Thus in independent voting, **f or 0.52 of the couples would agree.</s>
+<s snum=73>But Table 7-1 shows that **f or 0.70 agree, too many for independent voting.</s>
+</p>
+<p>
+<s snum=74>Each performance of an ~n-trial binomial experiment results in some whole number from 0 through ~n as the value of the random variable ~X, where **f.</s>
+<s snum=75>We want to study the probability function of this random variable.</s>
+<s snum=76>For example, we are interested in the number of bull's-eyes, not which shots were bull's-eyes.</s>
+<s snum=77>A binomial experiment can produce random variables other than the number of successes.</s>
+<s snum=78>For example, the marksman gets 5 shots, but we take his score to be the number of shots before his first bull's-eye, that is, 0, 1, 2, 3, 4 (or 5, if he gets no bull's-eye).</s>
+<s snum=79>Thus we do not score the number of bull's-eyes, and the random variable is not the number of successes.</s>
+</p>
+<p>
+<s snum=80>The constancy of ~p and the independence are the conditions most likely to give trouble in practice.</s>
+<s snum=81>Obviously, very slight changes in ~p do not change the probabilities much, and a slight lack of independence may not make an appreciable difference.</s>
+<s snum=82>(For instance, see Example 2 of Section 5-5, on red cards in hands of 5.)</s>
+<s snum=83> On the other hand, even when the binomial model does not describe well the physical phenomenon being studied, the binomial model may still be used as a baseline for comparative purposes; that is, we may discuss the phenomenon in terms of its departures from the binomial model.</s>
+</p>
+<hl>TO SUMMARIZE:</hl>
+<p>
+<s snum=84>A binomial experiment consists of **f independent binomial trials, all with the same probability **f of yielding a success.</s>
+<s snum=85>The outcome of the experiment is ~X successes.</s>
+<s snum=86>The random variable ~X takes the values **f with probabilities **f or, more briefly **f.</s>
+</p>
+<p>
+<s snum=87>We shall find a formula for the probability of exactly ~x successes for given values of ~p and ~n.</s>
+<s snum=88>When each number of successes ~x is paired with its probability of occurrence **f, the set of pairs **f, is a probability function called a binomial distribution.</s>
+<s snum=89>The choice of ~p and ~n determines the binomial distribution uniquely, and different choices always produce different distributions (except when **f; then the number of successes is always 0).</s>
+<s snum=90>The set of all binomial distributions is called the family of binomial distributions, but in general discussions this expression is often shortened to ``the binomial distribution'', or even ``the binomial'' when the context is clear.</s>
+<s snum=91>Binomial distributions were treated by James Bernoulli about 1700, and for this reason binomial trials are sometimes called Bernoulli trials.</s>
+</p>
+<hl>RANDOM VARIABLES.</hl>
+<p>
+<s snum=92>Each binomial trial of a binomial experiment produces either 0 or 1 success.</s>
+<s snum=93>Therefore each binomial trial can be thought of as producing a value of a random variable associated with that trial and taking the values 0 and 1, with probabilities ~q and ~p respectively.</s>
+<s snum=94>The several trials of a binomial experiment produce a new random variable ~X, the total number of successes, which is just the sum of the random variables associated with the single trials.</s>
+</p>
+<hl>EXAMPLE 2.</hl>
+<p>
+<s snum=95>The marksman gets two bull's-eyes, one on his third shot and one on his fifth.</s>
+<s snum=96>The numbers of successes on the five individual shots are, then, 0, 0, 1, 0, 1.</s>
+<s snum=97>The number of successes on each shot is a value of a random variable that has values 0 or 1, and there are 5 such random variables here.</s>
+<s snum=98>Their sum is ~X, the total number of successes, which in this experiment has the value **f.</s>
+</p>
+</txt>
+</doc>

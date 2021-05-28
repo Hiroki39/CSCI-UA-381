@@ -1,0 +1,148 @@
+<doc>
+<docno>br-j20</docno>
+<txt>
+<p>
+<s snum=1>Consider a simple, closed, plane curve ~C which is a real-analytic image of the unit circle, and which is given by **f.</s>
+<s snum=2>These are real analytic periodic functions with period ~T.</s>
+<s snum=3>In the following paper it is shown that in a certain definite sense, exactly an odd number of squares can be inscribed in every such curve which does not contain an infinite number of inscribed squares.</s>
+<s snum=4>This theorem is similar to the theorem of Kakutani that there exists a circumscribing cube around any closed, bounded convex set in **f.</s>
+<s snum=5>The latter theorem has been generalized by Yamabe and Yujobo, and Cairns to show that in **f there are families of such cubes.</s>
+<s snum=6>Here, for the case of squares inscribed in plane curves, we remove the restriction to convexity and give certain other results.</s>
+</p>
+<p>
+<s snum=7>A square inscribed in a curve ~C means a square with its four corner points on the curve, though it may not lie entirely in the interior of ~C.</s>
+<s snum=8>Indeed, the spiral **f, with the two endpoints connected by a straight line possesses only one inscribed square.</s>
+<s snum=9>The square has one corner point on the straight line segment, and does not lie entirely in the interior.</s>
+</p>
+<p>
+<s snum=10>On ~C, from the point ~P at **f to the point ~Q at **f, we construct the chord, and upon the chord as a side erect a square in such a way that as ~s approaches zero the square is inside ~C.</s>
+<s snum=11>As ~s increases we consider the two free corner points of the square, **f and **f, adjacent to ~P and ~Q respectively.</s>
+<s snum=12>As ~s approaches ~T the square will be outside ~C and therefore both **f and **f must cross ~C an odd number of times as ~s varies from zero to ~T.</s>
+<s snum=13>The points may also touch ~C without crossing.</s>
+</p>
+<p>
+<s snum=14>Suppose **f crosses ~C when **f.</s>
+<s snum=15>We now have certain squares with three corners on ~C.</s>
+<s snum=16>For any such square the middle corner of these will be called the vertex of the square and the corner not on the curve will be called the diagonal point of the square.</s>
+<s snum=17>Each point on ~C, as a vertex, may possess a finite number of corresponding diagonal points by the above construction.</s>
+</p>
+<p>
+<s snum=18>To each paired vertex and diagonal point there corresponds a unique forward corner point, i.e., the corner on ~C reached first by proceeding along ~C from the vertex in the direction of increasing ~t.</s>
+<s snum=19>If the vertex is at **f, and if the interior of ~C is on the left as one moves in the direction of increasing ~t, then every such corner can be found from the curve obtained by rotating ~C clockwise through 90` about the vertex.</s>
+<s snum=20>The set of intersections of **f, the rotated curve, with the original curve ~C consists of just the set of forward corner points on ~C corresponding to the vertex at **f, plus the vertex itself.</s>
+<s snum=21>We note that two such curves ~C and **f, cannot coincide at more than a finite number of points; otherwise, being analytic, they would coincide at all points, which is impossible since they do not coincide near **f.</s>
+</p>
+<p>
+<s snum=22>With each vertex we associate certain numerical values, namely the set of positive differences in the parameter ~t between the vertex and its corresponding forward corner points.</s>
+<s snum=23>For the vertex at **f, these values will be denoted by **f.</s>
+<s snum=24>The function ~f(t) defined in this way is multi-valued.</s>
+</p>
+<p>
+<s snum=25>We consider now the graph of the function ~f(t)on **f.</s>
+<s snum=26>We will refer to the plane of ~C and **f as the ~C-plane and to the plane of the graph as the ~f-plane.</s>
+<s snum=27>The graph, as a set, may have a finite number of components.</s>
+<s snum=28>We will denote the values of ~f(t) on different components by **f.</s>
+<s snum=29>Each point with abscissa ~t on the graph represents an intersection between ~C and **f.</s>
+<s snum=30>There are two types of such intersections, depending essentially on whether the curves cross at the point of intersection.</s>
+<s snum=31>An ordinary point will be any point of intersection ~A such that in every neighborhood of ~A in the ~C-plane, **f meets both the interior and the exterior of ~C.</s>
+<s snum=32>Any other point of intersection between ~C and **f will be called a tangent point.</s>
+<s snum=33>This terminology will also be applied to the corresponding points in the ~f-plane.</s>
+<s snum=34>We can now prove several lemmas.</s>
+</p>
+<hl>LEMMA 1.</hl>
+<p>
+<s snum=35>In some neighborhood in the ~f-plane of any ordinary point of the graph, the function ~f is a single-valued, continuous function.</s>
+</p>
+<hl>PROOF.</hl>
+<p>
+<s snum=36>We first show that the function is single-valued in some neighborhood.</s>
+<s snum=37>With the vertex at **f in the ~C-plane we assume that **f is the parametric location on ~C of an ordinary intersection ~Q between ~C and **f.</s>
+<s snum=38>In the ~f-plane the coordinates of the corresponding point are **f.</s>
+<s snum=39>We know that in the ~C-plane both ~C and **f are analytic.</s>
+<s snum=40>In the ~C-plane we construct a set of rectangular Cartesian coordinates ~u, ~v with the origin at ~Q and such that both ~C and **f have finite slope at ~Q.</s>
+<s snum=41>Near ~Q, both curves can be represented by analytic functions of ~u.</s>
+<s snum=42>In a neighborhood of ~Q the difference between these functions is also a single-valued, analytic function of ~u.</s>
+<s snum=43>Furthermore, one can find a neighborhood of ~Q in which the difference function is monotone, for since it is analytic it can have only a finite number of extrema in any interval.</s>
+<s snum=44>Now, to find **f, one needs the intersection of ~C and **f near ~Q.</s>
+<s snum=45>But **f is just the curve **f translated without rotation through a small arc, for **f is always obtained by rotating ~C through exactly 90`.</s>
+<s snum=46>The arc is itself a segment of an analytic curve.</s>
+<s snum=47>Thus if ~e is sufficiently small, there can be only one intersection of ~C and **f near ~Q, for if there were more than one intersection for every ~e then the difference between ~C and **f near ~Q would not be a monotone function.</s>
+<s snum=48>Therefore, **f is single-valued near ~Q.</s>
+<s snum=49>It is also seen that **f, since the change from **f to **f is accomplished by a continuous translation.</s>
+<s snum=50>Thus **f is also continuous at **f, and in a neighborhood of **f which does not contain a tangent point.</s>
+</p>
+<p>
+<s snum=51>We turn now to the set of tangent points on the graph.</s>
+<s snum=52>This set must consist of isolated points and closed intervals.</s>
+<s snum=53>The fact that there can not be any limit points of the set except in closed intervals follows from the argument used in Lemma 1, namely, that near any tangent point in the ~C-plane the curves ~C and **f are analytic, and therefore the difference between them must be a monotone function in some neighborhood on either side of the tangent point.</s>
+<s snum=54>This prevents the occurrence of an infinite sequence of isolated tangent points.</s>
+</p>
+<hl>LEMMA 2.</hl>
+<p>
+<s snum=55>In some neighborhood of an isolated tangent point in the ~f-plane, say **f, the function **f is either double-valued or has no values defined, except at the tangent point itself, where it is single-valued.</s>
+</p>
+<hl>PROOF.</hl>
+<p>
+<s snum=56>A tangent point ~Q in the ~C-plane occurs when ~C and **f are tangent to one another.</s>
+<s snum=57>A continuous change in ~t through an amount ~e results in a translation along an analytic arc of the curve **f.</s>
+<s snum=58>There are three possibilities: (a) **f remains tangent to ~C as it is translated; (b) **f moves away from ~C and does not intersect it at all for **f; (c) **f cuts across ~C and there are two ordinary intersections for every ~t in **f.</s>
+<s snum=59>The first possibility results in a closed interval of tangent points in the ~f-plane, the end points of which fall into category (b) or (c).</s>
+<s snum=60>In the second category the function **f has no values defined in a neighborhood **f.</s>
+<s snum=61>In the third category the function is double-valued in this interval.</s>
+<s snum=62>The same remarks apply to an interval on the other side of **f.</s>
+<s snum=63>Again, the analyticity of the two curves guarantee that such intervals exist.</s>
+<s snum=64>In the neighborhood of an end point of an interval of tangent points in the ~f-plane the function is two-valued or no-valued on one side, and is a single-valued function consisting entirely of tangent points on the other side.</s>
+</p>
+<p>
+<s snum=65>With the above results we can make the following remarks about the graph of ~f.</s>
+<s snum=66>First, for any value of ~t for which all values of ~f(t) are ordinary points the number of values of ~f(t) must be odd.</s>
+<s snum=67>For it is clear that the total number of ordinary intersections of ~C and **f must be even (otherwise, starting in the interior of ~C, **f could not finally return to the interior), and the center of rotation at ~t is the argument of the function, not a value.</s>
+<s snum=68>Therefore, for any value of ~t the number of values of ~f(t) is equal to the (finite) number of tangent points corresponding to the argument ~t plus an odd number.</s>
+</p>
+<hl>DEFINITION.</hl>
+<p>
+<s snum=69>The number of ordinary values of the function ~f(t)at ~t will be called its multiplicity at ~t.</s>
+</p>
+<hl>LEMMA 3.</hl>
+<p>
+<s snum=70>The graph of ~f has at least one component whose support is the entire interval ~[0,T].</s>
+</p>
+<hl>PROOF</hl>
+<p>
+<s snum=71>We suppose not.</s>
+<s snum=72>Then every component of the graph of ~f must be defined over a bounded sub-interval.</s>
+<s snum=73>Suppose **f is defined in the sub-interval **f.</s>
+<s snum=74>Now **f and **f must both be tangent points on the ~nth component in the ~f-plane; otherwise by Lemma 1 the component would extend beyond these points.</s>
+<s snum=75>Further, we see by Lemma 2 that the multiplicity of ~f can only change at a tangent point, and at such a point can only change by an even integer.</s>
+<s snum=76>Thus the multiplicity of **f for a given ~t must be an even number.</s>
+<s snum=77>This is true of all components which have such a bounded support.</s>
+<s snum=78>But this is a contradiction, for we know that the multiplicity of ~f(t) is odd for every ~t.</s>
+</p>
+<p>
+<s snum=79>We have shown that the graph of ~f contains at least one component whose inverse is the entire interval ~[0,T], and whose multiplicity is odd.</s>
+<s snum=80>There must be an odd number of such components, which will be called complete components.</s>
+<s snum=81>The remaining (incomplete) components all have an even number of ordinary points at any argument, and are defined only on a proper sub-interval of ~[0,T].</s>
+</p>
+<p>
+<s snum=82>We must now show that on some component of the graph there exist two points for which the corresponding diagonal points in the ~C-plane are on opposite sides of ~C.</s>
+<s snum=83>We again consider a fixed point ~P at **f and a variable point ~Q at **f on ~C.</s>
+<s snum=84>We erect a square with ~PQ as a side and with free corners **f and **f adjacent to ~P and ~Q respectively.</s>
+<s snum=85>As ~s varies from zero to ~T, the values of ~s for which **f and **f cross ~C will be denoted by **f and **f respectively.</s>
+<s snum=86>We have **f, plus tangent points.</s>
+<s snum=87>These ~s-values are just the ordinary values of **f.</s>
+</p>
+<hl>LEMMA 4.</hl>
+<p>
+<s snum=88>The values **f are the ordinary values at **f of a multi-valued function ~g(t) which has components corresponding to those of ~f(t).</s>
+</p>
+<hl>PROOF.</hl>
+<p>
+<s snum=89>We first define a function ~b(t) as follows: given the set of squares such that each has three corners on ~C and vertex at ~t, ~b(t) is the corresponding set of positive parametric differences between ~t and the backward corner points.</s>
+<s snum=90>The functions ~f and ~b have exactly the same multiplicity at every argument ~t.</s>
+<s snum=91>Now with ~P fixed at **f, **f-values occur when the corner **f crosses ~C, and are among the values of ~s such that **f.</s>
+<s snum=92>The roots of this equation are just the ordinates of the intersections of the graph of ~b with a straight line of unit slope through **f in the ~b-plane (the plane of the graph of ~b).</s>
+<s snum=93>We define these values as **f, and define ~g(t) in the same way for each ~t.</s>
+<s snum=94>Thus we obtain ~g(t) by introducing an oblique ~g(t)-axis in the ~b-plane.</s>
+</p>
+</txt>
+</doc>

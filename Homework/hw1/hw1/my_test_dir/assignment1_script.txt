@@ -1,0 +1,53 @@
+脚本启动于 2021年02月10日 星期三 03时38分44秒
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=wwhoami > I_logged_in.txt[?1l>
+]2;whoami > I_logged_in.txt]1;whoami[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=lls -lt[?1l>
+]2;ls --color=tty -lt]1;ls总用量 1
+-rw-r--r--. 1 hz2212 hz2212grp 7 2月  10 03:38 I_logged_in.txt
+-rw-r--r--. 1 hz2212 hz2212grp 0 2月  10 03:38 assignment1_script.txt
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=ccat I_logged_in.txt[?1l>
+]2;cat I_logged_in.txt]1;cathz2212
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=eecho "echo blah" > do_echo[?1l>
+]2;echo "echo blah" > do_echo]1;echo[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=cchmod 750 do_echo[?1l>
+]2;chmod 750 do_echo]1;chmod[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=ddo_echo[?1l>
+]2;do_echo]1;do_echozsh: do_echo: 未找到命令...
+zsh: command not found: do_echo
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;31m➜  [36mmy_test_dir[00m [K[?1h=do_echo[?1l>
+]2;do_echo]1;do_echozsh: do_echo: 未找到命令...
+zsh: command not found: do_echo
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;31m➜  [36mmy_test_dir[00m [K[?1h=lls[?1l>
+]2;ls --color=tty]1;lsassignment1_script.txt  [0m[38;5;34mdo_echo[0m  I_logged_in.txt
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=../do_echo[?1l>
+]2;./do_echo]1;./do_echoblah
+[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=mman chmod[?1l>
+]2;man chmod]1;man[?1049h[?1h=CHMOD(1)                             General Commands Manual                             CHMOD(1)[m
+[m
+[m
+[m
+[1mNAME[0m[m
+       chmod - 改变文件的访问权限[m
+[m
+[m
+[1m总揽[0m[m
+       [1mchmod[0m [1m[[0m[4moptions[24m[1m][0m [4mmode[24m [4mfile...[24m[m
+[m
+[m
+[1mPOSIX[0m [1m选项:[0m[m
+       [1m[-R][0m[m
+[m
+       GNU 选项 (最短方式): [1m[-cfvR][0m [1m[--reference=rfile][0m [1m[--help][0m [1m[--version][0m [1m[--][0m[m
+[m
+[1m描述[0m[m
+       使用chmod命令改变指定文件访问权限有两种方式:一种是用符号[m
+       标记所进行更改,另一种方式是采用8进制数指定新的访问权限。[m
+       使用下面的语法格式来使用符号改变方式[m
+       `[ugoa...][[+-=][rwxXstugo...]...][,...]'.[m
+[m
+       在这种格式下,所带参数是一个用逗号分隔的字符列表.每个符号方式的[m
+       改变命令以零或者字'ugoa'开始;'ugoa'控制哪些用户对该文件访问权[m
+       限将被改变:文件的所有者(u),与文件所有者同组的用户(g),其他组的[m
+       用户(o),所有用户(a).因此,a在这里等同于ugo.如果没有带参数,则缺[m
+       省设置为a,运行效果相同,但是在umask中设置的位将不会受影响.[m
+[m
+[7m Manual page chmod(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                    ]2;hz2212@snappy3:~/my_test_dir]1;~/my_test_dir[0m[27m[24m[J[01;32m➜  [36mmy_test_dir[00m [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on 2021年02月10日 星期三 03时39分57秒

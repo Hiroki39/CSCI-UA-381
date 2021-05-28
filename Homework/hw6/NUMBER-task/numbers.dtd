@@ -1,0 +1,29 @@
+<!ENTITY name "NumberTask">
+
+<!ELEMENT Numeric_time ( #PCDATA ) >
+<!ATTLIST Numeric_time start #IMPLIED >
+<!ATTLIST Numeric_time comment CDATA >
+
+<!ELEMENT Numeric_time_length ( #PCDATA ) >
+<!ATTLIST Numeric_time_length start #IMPLIED >
+<!ATTLIST Numeric_time_length comment CDATA >
+
+<!ELEMENT Money ( #PCDATA ) >
+<!ATTLIST Money start #IMPLIED >
+<!ATTLIST Money comment CDATA >
+
+<!ELEMENT Ordinal ( #PCDATA ) >
+<!ATTLIST Ordinal start #IMPLIED >
+<!ATTLIST Ordinal comment CDATA >
+
+<!ELEMENT Score ( #PCDATA ) >
+<!ATTLIST Score start #IMPLIED >
+<!ATTLIST Score comment CDATA >
+
+<!ELEMENT Unit_measure ( #PCDATA ) >
+<!ATTLIST Unit_measure start #IMPLIED >
+<!ATTLIST Unit_measure comment CDATA >
+
+<!ELEMENT Other_number ( #PCDATA ) >
+<!ATTLIST Other_number  start #IMPLIED >
+<!ATTLIST Other_number comment CDATA >

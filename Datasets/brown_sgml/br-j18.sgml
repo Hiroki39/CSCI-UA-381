@@ -1,0 +1,157 @@
+<doc>
+<docno>br-j18</docno>
+<txt>
+<hl>6.4.THE PRIMARY DECOMPOSITION THEOREM</hl>
+<p>
+<s snum=1>We are trying to study a linear operator ~T on the finite-dimensional space ~V, by decomposing ~T into a direct sum of operators which are in some sense elementary.</s>
+<s snum=2>We can do this through the characteristic values and vectors of ~T in certain special cases, i.e., when the minimal polynomial for ~T factors over the scalar field ~F into a product of distinct monic polynomials of degree 1.</s>
+<s snum=3>What can we do with the general ~T?</s>
+<s snum=4>If we try to study ~T using characteristic values, we are confronted with two problems.</s>
+<s snum=5>First, ~T may not have a single characteristic value; this is really a deficiency in the scalar field, namely, that it is not algebraically closed.</s>
+<s snum=6>Second, even if the characteristic polynomial factors completely over ~F into a product of polynomials of degree 1, there may not be enough characteristic vectors for ~T to span the space ~V; this is clearly a deficiency in ~T.</s>
+<s snum=7>The second situation is illustrated by the operator ~T on **f (~F any field)represented in the standard basis by **f.</s>
+<s snum=8>The characteristic polynomial for ~A is **f and this is plainly also the minimal polynomial for ~A (or for ~T).</s>
+<s snum=9>Thus ~T is not diagonalizable.</s>
+<s snum=10>One sees that this happens because the null space of **f has dimension 1 only.</s>
+<s snum=11>On the other hand, the null space of **f and the null space of **f together span ~V, the former being the subspace spanned by **f and the latter the subspace spanned by **f and **f.</s>
+</p>
+<p>
+<s snum=12>This will be more or less our general method for the second problem.</s>
+<s snum=13>If (remember this is an assumption)the minimal polynomial for ~T decomposes **f where **f are distinct elements of ~F, then we shall show that the space ~V is the direct sum of the null spaces of **f.</s>
+<s snum=14>The diagonalizable operator is the special case of this in which **f for each ~i.</s>
+<s snum=15>The theorem which we prove is more general than what we have described, since it works with the primary decomposition of the minimal polynomial, whether or not the primes which enter are all of first degree.</s>
+<s snum=16>The reader will find it helpful to think of the special case when the primes are of degree 1, and even more particularly, to think of the proof of Theorem 10, a special case of this theorem.</s>
+</p>
+<hl>THEOREM 12.(PRIMARY DECOMPOSITION THEOREM).</hl>
+<p>
+<s snum=17>Let ~T be a linear operator on the finite-dimensional vector space ~V over the field ~F.</s>
+<s snum=18>Let ~p be the minimal polynomial for ~T, **f where the **f are distinct irreducible monic polynomials over ~F and the **f are positive integers.</s>
+<s snum=19>Let **f be the null space of **f.</s>
+<s snum=20>Then (a)**f (b) each **f is invariant under ~T (c) if **f is the operator induced on **f by ~T, then the minimal polynomial for **f is **f.</s>
+</p>
+<hl>PROOF.</hl>
+<p>
+<s snum=21>The idea of the proof is this.</s>
+<s snum=22>If the direct-sum decomposition (a) is valid, how can we get hold of the projections **f associated with the decomposition?</s>
+<s snum=23>The projection **f will be the identity on **f and zero on the other **f.</s>
+<s snum=24>We shall find a polynomial **f such that **f is the identity on **f and is zero on the other **f, and so that **f, etc..</s>
+</p>
+<p>
+<s snum=25>For each ~i, let **f.</s>
+<s snum=26>Since **f are distinct prime polynomials, the polynomials **f are relatively prime (Theorem 8, Chapter 4).</s>
+<s snum=27>Thus there are polynomials **f such that **f.</s>
+<s snum=28>Note also that if **f, then **f is divisible by the polynomial ~p, because **f contains each **f as a factor.</s>
+<s snum=29>We shall show that the polynomials **f behave in the manner described in the first paragraph of the proof.</s>
+</p>
+<p>
+<s snum=30>Let **f.</s>
+<s snum=31>Since **f and ~p divides **f for **f, we have **f.</s>
+<s snum=32>Thus the **f are projections which correspond to some direct-sum decomposition of the space ~V.</s>
+<s snum=33>We wish to show that the range of **f is exactly the subspace **f.</s>
+<s snum=34>It is clear that each vector in the range of **f is in **f for if ~|a is in the range of **f, then **f and so **f because **f is divisible by the minimal polynomial ~p.</s>
+<s snum=35>Conversely, suppose that ~|a is in the null space of **f.</s>
+<s snum=36>If **f, then **f is divisible by **f and so **f, i.e., **f.</s>
+<s snum=37>But then it is immediate that **f, i.e., that ~|a is in the range of **f.</s>
+<s snum=38>This completes the proof of statement (a).</s>
+</p>
+<p>
+<s snum=39>It is certainly clear that the subspaces **f are invariant under ~T.</s>
+<s snum=40>If **f is the operator induced on **f by ~T, then evidently **f, because by definition **f is 0 on the subspace **f.</s>
+<s snum=41>This shows that the minimal polynomial for **f divides **f.</s>
+<s snum=42>Conversely, let ~g be any polynomial such that **f.</s>
+<s snum=43>Then **f.</s>
+<s snum=44>Thus **f is divisible by the minimal polynomial ~p of ~T, i.e., **f divides **f.</s>
+<s snum=45>It is easily seen that **f divides ~g.</s>
+<s snum=46>Hence the minimal polynomial for **f is **f.</s>
+</p>
+<hl>COROLLARY.</hl>
+<p>
+<s snum=47>If **f are the projections associated with the primary decomposition of ~T, then each **f is a polynomial in ~T, and accordingly if a linear operator ~U commutes with ~T then ~U commutes with each of the **f i.e., each subspace **f is invariant under ~U.</s>
+</p>
+<p>
+<s snum=48>In the notation of the proof of Theorem 12, let us take a look at the special case in which the minimal polynomial for ~T is a product of first-degree polynomials, i.e., the case in which each **f is of the form **f.</s>
+<s snum=49>Now the range of **f is the null space **f of **f.</s>
+<s snum=50>Let us put **f.</s>
+<s snum=51>By Theorem 10, ~D is a diagonalizable operator which we shall call the diagonalizable part of ~T.</s>
+<s snum=52>Let us look at the operator **f.</s>
+<s snum=53>Now **f **f so **f.</s>
+<s snum=54>The reader should be familiar enough with projections by now so that he sees that **f and in general that **f.</s>
+<s snum=55>When **f for each ~i, we shall have **f, because the operator **f will then be 0 on the range of **f.</s>
+</p>
+<hl>DEFINITION.</hl>
+<p>
+<s snum=56>Let ~N be a linear operator on the vector space ~V.</s>
+<s snum=57>We say that ~N is nilpotent if there is some positive integer ~r such that **f.</s>
+</p>
+<hl>THEOREM 13.</hl>
+<p>
+<s snum=58>Let ~T be a linear operator on the finite-dimensional vector space ~V over the field ~F.</s>
+<s snum=59>Suppose that the minimal polynomial for ~T decomposes over ~F into a product of linear polynomials.</s>
+<s snum=60>Then there is a diagonalizable operator ~D on ~V and a nilpotent operator ~N on ~V such that (a) **f, (b) **f.</s>
+<s snum=61>The diagonalizable operator ~D and the nilpotent operator ~N are uniquely determined by (a) and (b) and each of them is a polynomial in ~T.</s>
+</p>
+<hl>PROOF.</hl>
+<p>
+<s snum=62>We have just observed that we can write **f where ~D is diagonalizable and ~N is nilpotent, and where ~D and ~N not only commute but are polynomials in ~T.</s>
+<s snum=63>Now suppose that we also have **f where ~D' is diagonalizable, ~N' is nilpotent, and **f.</s>
+<s snum=64>We shall prove that **f.</s>
+</p>
+<p>
+<s snum=65>Since ~D' and ~N' commute with one another and **f, we see that ~D' and ~N' commute with ~T.</s>
+<s snum=66>Thus ~D' and ~N' commute with any polynomial in ~T; hence they commute with ~D and with ~N.</s>
+<s snum=67>Now we have **f or **f and all four of these operators commute with one another.</s>
+<s snum=68>Since ~D and ~D' are both diagonalizable and they commute, they are simultaneously diagonalizable, and **f is diagonalizable.</s>
+<s snum=69>Since ~N and ~N' are both nilpotent and they commute, the operator **f is nilpotent; for, using the fact that ~N and ~N' commute **f and so when ~r is sufficiently large every term in this expression for **f will be 0.</s>
+<s snum=70>(Actually, a nilpotent operator on an ~n-dimensional space must have its ~nth power 0; if we take **f above, that will be large enough.</s>
+<s snum=71>It then follows that **f is large enough, but this is not obvious from the above expression.)</s>
+<s snum=72> Now **f is a diagonalizable operator which is also nilpotent.</s>
+<s snum=73>Such an operator is obviously the zero operator; for since it is nilpotent, the minimal polynomial for this operator is of the form **f for some **f; but then since the operator is diagonalizable, the minimal polynomial cannot have a repeated root; hence **f and the minimal polynomial is simply ~x, which says the operator is 0.</s>
+<s snum=74>Thus we see that **f and **f.</s>
+</p>
+<hl>COROLLARY.</hl>
+<p>
+<s snum=75>Let ~V be a finite-dimensional vector space over an algebraically closed field ~F, e.g., the field of complex numbers.</s>
+<s snum=76>Then every linear operator ~T on ~V can be written as the sum of a diagonalizable operator ~D and a nilpotent operator ~N which commute.</s>
+<s snum=77>These operators ~D and ~N are unique and each is a polynomial in ~T.</s>
+</p>
+<p>
+<s snum=78>From these results, one sees that the study of linear operators on vector spaces over an algebraically closed field is essentially reduced to the study of nilpotent operators.</s>
+<s snum=79>For vector spaces over non-algebraically closed fields, we still need to find some substitute for characteristic values and vectors.</s>
+<s snum=80>It is a very interesting fact that these two problems can be handled simultaneously and this is what we shall do in the next chapter.</s>
+</p>
+<p>
+<s snum=81>In concluding this section, we should like to give an example which illustrates some of the ideas of the primary decomposition theorem.</s>
+<s snum=82>We have chosen to give it at the end of the section since it deals with differential equations and thus is not purely linear algebra.</s>
+</p>
+<hl>EXAMPLE 11.</hl>
+<p>
+<s snum=83>In the primary decomposition theorem, it is not necessary that the vector space ~V be finite dimensional, nor is it necessary for parts (a) and (b) that ~p be the minimal polynomial for ~T.</s>
+<s snum=84>If ~T is a linear operator on an arbitrary vector space and if there is a monic polynomial ~p such that **f, then parts (a) and (b)of Theorem 12 are valid for ~T with the proof which we gave.</s>
+</p>
+<p>
+<s snum=85>Let ~n be a positive integer and let ~V be the space of all ~n times continuously differentiable functions ~f on the real line which satisfy the differential equation **f where **f are some fixed constants.</s>
+<s snum=86>If **f denotes the space of ~n times continuously differentiable functions, then the space ~V of solutions of this differential equation is a subspace of **f.</s>
+<s snum=87>If ~D denotes the differentiation operator and ~p is the polynomial **f then ~V is the null space of the operator ~p(D), because **f simply says **f.</s>
+<s snum=88>Let us now regard ~D as a linear operator on the subspace ~V.</s>
+<s snum=89>Then **f.</s>
+</p>
+<p>
+<s snum=90>If we are discussing differentiable complex-valued functions, then **f and ~V are complex vector spaces, and **f may be any complex numbers.</s>
+<s snum=91>We now write **f where **f are distinct complex numbers.</s>
+<s snum=92>If **f is the null space of **f, then Theorem 12 says that **f.</s>
+<s snum=93>In other words, if ~f satisfies the differential equation **f, then ~f is uniquely expressible in the form **f where **f satisfies the differential equation **f.</s>
+<s snum=94>Thus, the study of the solutions to the equation **f is reduced to the study of the space of solutions of a differential equation of the form **f.</s>
+<s snum=95>This reduction has been accomplished by the general methods of linear algebra, i.e., by the primary decomposition theorem.</s>
+</p>
+<p>
+<s snum=96>To describe the space of solutions to **f, one must know something about differential equations, that is, one must know something about ~D other than the fact that it is a linear operator.</s>
+<s snum=97>However, one does not need to know very much.</s>
+<s snum=98>It is very easy to establish by induction on ~r that if ~f is in **f then **f that is, **f, etc..</s>
+<s snum=99>Thus **f if and only if **f.</s>
+<s snum=100>A function ~g such that **f, i.e., **f, must be a polynomial function of degree **f or less: **f.</s>
+<s snum=101>Thus ~f satisfies **f if and only if ~f has the form **f.</s>
+<s snum=102>Accordingly, the 'functions' **f span the space of solutions of **f.</s>
+<s snum=103>Since **f are linearly independent functions and the exponential function has no zeros, these ~r functions **f, form a basis for the space of solutions.</s>
+</p>
+</txt>
+</doc>

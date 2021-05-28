@@ -1,0 +1,8 @@
+adam: Mancala is one of the oldest known games to still be widely played
+adam: today. Mancala is a generic name for a family of two-player turn-based
+adam: strategy board games played with small stones, beans, or seeds and
+adam: rows of holes or pits in the earth, a board or other playing
+adam: surface. The objective is usually to capture all or some set of the
+adam: opponent's pieces. Versions of the game date back to the 7th century
+adam: and evidence suggests[according to whom?] the game existed in ancient
+adam: Egypt.

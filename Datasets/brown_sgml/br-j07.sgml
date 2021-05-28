@@ -1,0 +1,127 @@
+<doc>
+<docno>br-j07</docno>
+<txt>
+<p>
+<s snum=1>The Poynting-Robertson effect (Robertson, 1937; Wyatt and Whipple, 1950), which is a retardation of the orbital motion of particles by the relativistic aberration of the repulsive force of the impinging solar radiation, causes the dust to spiral into the sun in times much shorter than the age of the Earth.</s>
+<s snum=2>The radial velocity varies inversely as the particle size- a 1000-~|m-diameter particle near the orbit of Mars would reach the sun in about 60 million years.</s>
+<s snum=3>Whipple (1955) extends the effects to include the solar-corpuscular-radiation pressure, which increases both the minimum particle size and the drag.</s>
+<s snum=4>Further, the corpuscular radiation, i.e., the solar-wind protons, must sputter away the surface atoms of the dust and cause a slow diminution in size, with a resultant increase in both the Poynting-Robertson effect and the ratio of the repulsive force to the gravitational force.</s>
+</p>
+<p>
+<s snum=5>The Poynting-Robertson effect causes the semi-major axis of orbits to diminish more rapidly than the semi-minor axis, with a consequent tendency toward circular orbits as the particles move toward the sun.</s>
+<s snum=6>Also, planetary gravitational attraction increases the dust concentration near the plane of the ecliptic as the sun is approached.</s>
+<s snum=7>At one astronomical unit from the sun (the Earth's distance) the dust orbits are probably nearly circular.</s>
+<s snum=8>If such is the case, the particles within a distance of about **f ~km of the Earth will have, relative to the Earth, a kinetic energy less than their potential energy and they will be captured into orbits about the Earth.</s>
+<s snum=9>De Jager (1955) has calculated the times required for these particles to reach the atmosphere under the influence of the Poynting-Robertson effect, which in this case causes the orbits to become more and more eccentric without changing the semi-major axis.</s>
+<s snum=10>This effect can give rise to a blanket of micrometeorites around the Earth.</s>
+</p>
+<p>
+<s snum=11>Since there is a continual loss of micrometeoritic material in space because of the radiation effects, there must be a continual replenishment: otherwise, micrometeorites would have disappeared from interplanetary space.</s>
+<s snum=12>There are several possible sources.</s>
+<s snum=13>According to Whipple (1955), cometary debris is sufficient to replenish the material spiraling into the sun, maintaining a fairly steady state.</s>
+<s snum=14>Asteroidal collisions are also thought to contribute material.</s>
+<s snum=15>It is also possible that some of the dust in the vicinity of the Earth originated from meteoritic impacts upon the moon.</s>
+</p>
+<hl>5.3 DIRECT MEASUREMENTS OF MICROMETEORITE FLUX</hl>
+<p>
+<s snum=16>One cannot make a very satisfactory guess about the micrometeorite flux in space.</s>
+<s snum=17>Even in the neighborhood of the Earth, where information has been obtained both directly and indirectly, the derived flux values vary by at least four orders of magnitude.</s>
+<s snum=18>This large discrepancy demonstrates the inadequacies of the experimental methods and the lack of understanding of the various phenomena involved.</s>
+<s snum=19>Beyond a few million kilometers from the Earth, but still in the region of the Earth's orbit, a prediction of the flux of dust is even more unreliable.</s>
+<s snum=20>At greater distances from the sun, the situation is still less certain.</s>
+</p>
+<p>
+<s snum=21>There are several sources of evidence on the micrometeorite environment.</s>
+<s snum=22>Direct information has been obtained from rockets and satellites equipped with impact sensors.</s>
+<s snum=23>In addition, the size distribution obtained from visual and radar observations of meteors may be extrapolated to the micrometeorite domain.</s>
+<s snum=24>From the brightness of the ~F component of the solar corona and the brightness of the zodiacal light, an estimate of the particle sizes, concentrations, and spatial distribution can be derived for regions of space near the ecliptic plane.</s>
+<s snum=25>Another important source of evidence only recently receiving much attention is the analysis of atmospheric dust for a meteoritic component.</s>
+<s snum=26>The cores of deep-sea sediments and content of collectors in remote regions are valuable in this category.</s>
+<s snum=27>The data provide a measure of the total mass of cosmic material incident upon the Earth.</s>
+</p>
+<p>
+<s snum=28>The direct evidence on the micrometeorite environment near the Earth is obtained from piezoelectric sensors (essentially microphones) and from wire gages; these instruments are installed on rockets, satellites, and space probes.</s>
+<s snum=29>Statistically, the most significant data have been collected from the sensors on 1958 Alpha (Explorer /1,), 1958 Delta 2 (Sputnik /3,), and 1959Eta (Vanguard /3,).</s>
+<s snum=30>These vehicles, with large sensitive areas, have collected data for long enough times to give reliable impact rates for the periods of exposure.</s>
+<s snum=31>Many other vehicles with smaller sensitive-area exposure-time products contribute some information.</s>
+</p>
+<p>
+<s snum=32>The impact rate on 1958 Alpha for 153 events was **f for particles of mass greater than **f (Dubin, 1960); this mass threshold was derived from the detector calibration and an assumed impact velocity of **f.</s>
+<s snum=33>The data show daily and diurnal variations.</s>
+<s snum=34>Ninety per cent of the 153 recorded impacts occurred between midnight and noon, and from day to day the variation of the rate was as much as an order of magnitude.</s>
+<s snum=35>One may conclude that most of the detected micrometeoritic material is concentrated in orbital streams which intersect the Earth's orbit.</s>
+</p>
+<p>
+<s snum=36>There have been contradictory reports from 1958Delta 2, and the data quoted here are believed to be the more reliable.</s>
+<s snum=37>On May 15, a very large increase occurred with **f of mass between **f and **f; for the next two days, the impact rate was **f; and for the next nine days, the impact rate was less than **f (Nazarova, 1960).</s>
+<s snum=38>The data for the first day indicate a meteor stream with a very high concentration of particles and may have led to the high estimates of micrometeorite flux.</s>
+</p>
+<p>
+<s snum=39>Preliminary data from 1959 Eta give an average impact rate of **f for masses larger than **f for about 1000events in a 22-day period (LaGow and Alexander, 1960).</s>
+<s snum=40>The day-to-day rate varied by less than a factor of 4.5.</s>
+<s snum=41>The data have not yet been analyzed for diurnal variations.</s>
+<s snum=42>Note that the mass threshold is four times that of 1958 Alpha and that the flux is one fifth as large.</s>
+<s snum=43>If one assumes that the average flux did not change between measurements, a mass-distribution curve is obtained which relates the flux of particles larger than a given radius to the inverse 7/2 power of the radius.</s>
+</p>
+<p>
+<s snum=44>Space probes have yielded little information.</s>
+<s snum=45>Pioneer /1, recorded a decrease in flux with distance from the Earth on the basis of 11 counts in 9 hours.</s>
+<s snum=46>With detectors sensitive to three mass intervals and based on a few counts, the second and third Russian space probes indicate that the flux of the smallest particles detected is less than that of larger ones.</s>
+<s snum=47>Being based on so few events, these results are of dubious validity.</s>
+</p>
+<p>
+<s snum=48>The calibration of piezoelectric sensors in terms of the particle parameters is very uncertain.</s>
+<s snum=49>Many workers believe that the response is proportional to the incident momentum of the particles, a relation deduced from laboratory results linearly extrapolated to meteoritic velocities.</s>
+<s snum=50>However, one must expect that vaporization and ejection of material by hypervelocity impacts would cause a deviation from a linear relationship.</s>
+<s snum=51>In the United States, most of the sensors are calibrated by dropping small spheres on their sensitive surfaces.</s>
+<s snum=52>The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor.</s>
+<s snum=53>This ``ejection'' momentum is linearly related to the particle energy.</s>
+<s snum=54>They quote about the same mass threshold as that of the U.S. apparatus, but a momentum threshold about 40 times greater.</s>
+<s snum=55>There is a difference in the experimental arrangement, in that the U.S. microphones are attached directly to the vehicle skin while the Russian instruments are isolated from the skin.</s>
+<s snum=56>The threshold mass is derived from the momentum threshold with the assumption of a mean impact velocity of **f in the U.S. work and **f in the U.S.S.R. work.</s>
+<s snum=57>The threshold mass of about **f corresponds to a 10-~|m-diameter sphere of density **f.</s>
+<s snum=58>However, the conversion from mass to size is unreliable, since many photographic meteors give evidence of a fluffy, loosely bound meteorite structure with densities as low as **f.</s>
+<s snum=59>To what extent such low density applies to micrometeorites is unknown.</s>
+<s snum=60>The velocity value used is also open to some question; if a substantial fraction of the dust is orbiting about the Earth, only about one third the above-mentioned average velocity should be used in deriving the mass.</s>
+<s snum=61>Zodiacal light and the gegenschein give some evidence for such a dust blanket, a phenomenon also to be expected if the dust before capture is in circular orbits about the sun, as indicated by the trend of the smaller visible meteors.</s>
+<s snum=62>The diurnal variation in the observed flux may be partly due to the dependence of the detector sensitivity on the incident velocity.</s>
+</p>
+<p>
+<s snum=63>The flux of micrometeorites in the neighborhood of the Earth can be estimated by extrapolation from radar and visual meteor data.</s>
+<s snum=64>A summary of meteorite data, prepared by Whipple (1958) on the basis of photographic, visual, and radar evidence, is given in Table 5-1.</s>
+<s snum=65>From an estimated mass of 25 ~g for a zero-magnitude meteorite, the other masses are derived with the assumption of a mass decrease by a factor of 2.512 for each unit increase in magnitude.</s>
+<s snum=66>The radius is calculated from the mass by assuming spheres of density **f except for the smallest particles, which must have a higher mass density to remain in the solar system in the presence of solar-radiation pressure.</s>
+<s snum=67>The flux values are for all particles with masses greater than the given mass and are based on an estimate of the numbers of visual meteors.</s>
+<s snum=68>It is assumed that the flux values increase by a factor of 2.512 per magnitude, in accordance with the opinion that the total mass flux in each unit range in magnitude is constant.</s>
+<s snum=69>The values agree with the data from 1958 Alpha and 1959 Eta.</s>
+<s snum=70>The figures in the next-to-last column are derived with the assumption of 50 per cent shielding by the Earth; hence, these figures apply immediately above the Earth's atmosphere.</s>
+<s snum=71>The unshielded flux is given in the last column; these figures constitute the best estimate for the flux in interplanetary space near the Earth.</s>
+<s snum=72>Of course, if there is a dust blanket around the Earth, the fluxes in interplanetary space should be less than the figures given here.</s>
+</p>
+<p>
+<s snum=73>Note that the mass scale is one to two orders of magnitude greater than some previously used; for example, Jacchia (1948) derived a scale of 0.15 ~g for a **f, zero-magnitude meteorite.</s>
+<s snum=74>The older scales were based on theoretical estimates of the conversion efficiency of kinetic energy into light.</s>
+<s snum=75>The mass scale used in Table 5-1 was derived on the assumption that the motion of the glowing trail is related to the momentum transfer to the trail by the meteorite, permitting the calculation of the mass if the velocity is known (Cook and Whipple, 1958).</s>
+</p>
+<p>
+<s snum=76>A concentration distribution has been derived from radar observations sensitive to the fifteenth magnitude (Manning and Eshleman, 1959).</s>
+<s snum=77>Extrapolation of this relationship through the thirtieth magnitude covers the range of micrometeorites.</s>
+<s snum=78>The approximate equation is **f, where ~n is the number of **f with electron line-density greater than or equal to **f, and ~q is proportional to the mass of the meteorite.</s>
+<s snum=79>Therefore, ~n is inversely proportional to the radius cubed and in fair agreement with the inverse 7/2 power derived from 1958 Alpha and 1959 Eta data.</s>
+<s snum=80>At the fifteenth magnitude, **f, and at the twenty-fifth magnitude, **f.</s>
+<s snum=81>These extrapolated fluxes are about an order of magnitude less than the values from the satellite data and the figures in Whipple's table.</s>
+<s snum=82>The extrapolation may be in error for several reasons.</s>
+<s snum=83>The observational data determining the concentration distribution have a range of error which is magnified in the extension into the micrometeorite region.</s>
+<s snum=84>The solar-electromagnetic- and corpuscular-radiation pressure and the associated Poynting-Robertson effect increase in effectiveness as the particle size decreases and modify the distribution and limit sizes to larger than a few microns.</s>
+<s snum=85>Also, it has been suggested that the source of all or part of the dust may not be the same as that for visual or radar meteorites (Best, 1960), and the same distribution would not be expected.</s>
+</p>
+<hl>5.4.INDIRECT INDICATIONS OF MICROMETEORITE FLUX</hl>
+<p>
+<s snum=86>A measure of the total mass accretion of meteoritic material by the Earth is obtained from analyses of deep-sea sediments and dust collected in remote regions (Pettersson, 1960).</s>
+<s snum=87>Most meteoritic material, by the time it reaches the Earth's surface, has been reduced to dust or to spherules of ablated material in its passage through the atmosphere.</s>
+<s snum=88>For all meteorites, the average nickel content is about 2.5 per cent.</s>
+<s snum=89>This is much higher than the nickel content of terrestrial dusts and sediments and provides a basis for the determination of the meteoritic mass influx.</s>
+<s snum=90>Present data indicate an accretion of about **f tons per year over the entire globe, or about **f.</s>
+</p>
+</txt>
+</doc>

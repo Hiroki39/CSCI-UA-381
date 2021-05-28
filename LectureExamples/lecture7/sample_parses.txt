@@ -1,0 +1,62 @@
+
+
+
+
+
+              _________ S______
+	NP ___                               VP________PP
+    /      \          \                            /    \                 /  |
+  DT     NP         NN                VBD  RP       IN  NP
+  |         /   \           |                     |          |        /       /    \
+  |       NN  NN    |                     |          |      /    NNP  NNP
+The ice cream truck        ended up in New Jersey.
+
+
+                 ________ S_______________________
+        NP                    |                                                         |
+        /                       VP
+    NNP                  /    \                                                    PU
+Mary               VBD  SBAR                                             .
+                           said    /  \
+			             IN   S_______
+				     |           \           |
+				     that     NP    VP_____PP____
+				                    |          \              |           |
+						   PRP    VBD     IN        NP
+                                                   she        knew about  |
+                                                                                            NN
+                                                                                            linguistics
+
+
+The glass fell before it broke
+
+--- SBAR before + S it broke
+
+SBAR is inside the VP or inside the S
+
+
+[The book and the pencil] rest quietly on the table.
+
+
+  X --> X and X
+  X --> X or X
+
+                           NP
+                         / |   \
+                  NP   CC NP
+                 / |        and |  \
+            DT NN          DT NN
+           the book      the pencil
+
+[Donald, the most powerful person in the world], likes french fries with chocolate sauce.
+
+                         NP
+                     /    |   \
+	       NP    PU  NP__________________
+                |          ,      |  \                   |                     |
+              NNP         DT ADJP      NN               PP
+	    Donald     the   /   |          person      |    \
+	                                RB JJ                        IN    NP
+				most     powerful         in      |    \
+                                                                                   DT  NN
+                                                                                   the world

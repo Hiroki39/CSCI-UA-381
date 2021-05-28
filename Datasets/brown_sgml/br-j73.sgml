@@ -1,0 +1,262 @@
+<doc>
+<docno>br-j73</docno>
+<txt>
+<hl>ORGANIZATION:</hl>
+<p>
+<s snum=1>In this publication measurements of interfacial angles of crystals are used to classify and identify chemical substances.</s>
+<s snum=2>T. V. Barker, who developed the classification-angle system, was about to begin the systematic compilation of the index when he died in 1931.</s>
+<s snum=3>The compilation work was undertaken by a number of interested crystallographers in the Department of Mineralogy of the University Museum at Oxford.</s>
+<s snum=4>Since 1948 the working headquarters has been the Department of Geology and Mineralogy.</s>
+<s snum=5>Numerous cooperating individuals in Great Britain, Holland, the United States, and Belgium have contributed editorially or by making calculations.</s>
+<s snum=6>Great interest and practical help have been given by the Barker Index Committee.</s>
+<s snum=7>Financial and material help have come from academic, governmental, and industrial organizations in England and Holland.</s>
+<s snum=8>Editors for Volumes /1, and /2, were M. W. Porter and the late R. C. Spiller, both of Oxford University.</s>
+<s snum=9>A third volume remains to be published.</s>
+</p>
+<hl>SUBSTANCES:</hl>
+<p>
+<s snum=10>Volume /1, deals with 2991 compounds belonging to the tetragonal, hexagonal and trigonal, and orthorhombic systems; and Volume /2,, with about 3500 monoclinic substances.</s>
+<s snum=11>Volume /3,, in preparation, will treat the anorthic compounds described in Groth's Chemische Krystallographie.</s>
+</p>
+<hl>PROPERTIES:</hl>
+<p>
+<s snum=12>The Barker system is based on the use of the smallest number of interfacial angles necessary for indexing purposes.</s>
+<s snum=13>Other morphological, physical, and optical property values are also given.</s>
+</p>
+<hl>SOURCES OF DATA:</hl>
+<p>
+<s snum=14>The index is essentially a new treatment of previously compiled morphological data.</s>
+<s snum=15>Most of the data used are from Groth's Chemische Krystallographie.</s>
+</p>
+<hl>CRITICALITY:</hl>
+<p>
+<s snum=16>Every calculation has been made independently by two workers and checked by one of the editors.</s>
+</p>
+<hl>USE OF NOMENCLATURE, SYMBOLS, UNITS, PHYSICAL CONSTANTS:</hl>
+<p>
+<s snum=17>Accepted crystallographic symbolism has been used; other symbols related to the index necessarily have been introduced.</s>
+</p>
+<hl>CURRENCY:</hl>
+<p>
+<s snum=18>This publication covers the old literature (Groth); there is no mechanism for keeping the volumes up to date.</s>
+</p>
+<hl>FORMAT:</hl>
+<p>
+<s snum=19>The publication form is that of clothbound books.</s>
+<s snum=20>The data are presented in lists and tables.</s>
+<s snum=21>Part 1in both volumes is labeled ``Introduction and Tables''.</s>
+<s snum=22>The tables include those for the classification angles, refractive indices, and melting points of the various types of crystals.</s>
+<s snum=23>Part 2 of Volume /1, and Parts 2and 3 of Volume /2, contain the crystal descriptions.</s>
+<s snum=24>These are grouped into sections according to the crystal system, and within each section compounds are arranged in the same order as in Groth's CHEMISCHE KRYSTALLOGRAPHIE.</s>
+<s snum=25>An alphabetical list of chemical and mineralogical names with reference numbers enables one to find a particular crystal description.</s>
+<s snum=26>References to the data sources are given in the crystal descriptions.</s>
+</p>
+<hl>PUBLICATION AND DISTRIBUTION:</hl>
+<p>
+<s snum=27>The Barker Index is published for the Barker Index Committee by W. Heffer + Sons, Ltd., 3-4 Petty Cury, Cambridge, England.</s>
+<s snum=28>Volume /1, containing Parts 1 and 2 was published in 1951; Volume /2,, in three parts, in 1956.</s>
+<s snum=29>The two volumes are available from the publisher for $16.80 and $28.00, respectively.</s>
+</p>
+<hl>/2,-2.CRYSTAL DATA</hl>
+<hl>ORGANIZATION:</hl>
+<p>
+<s snum=30>The present edition of Crystal Data was written by J.D.H. Donnay, the Johns Hopkins University, Baltimore, Md. (Part /2,) and Werner Nowacki, University of Berne, Switzerland (Part /1,) with the collaboration of Gabrielle Donnay, U. S. Geological Survey, Washington, D. C..</s>
+<s snum=31>Many collaborators in the United States and Switzerland helped in collecting and assembling data, in making calculations, and in editing.</s>
+<s snum=32>Support came from academic and industrial groups in these two countries.</s>
+<s snum=33>The Geological Society of America gave a grant-in-aid to complete the work and bore the expenses of publication.</s>
+<s snum=34>Preparation of a second edition is in progress under the sponsorship of the Crystal Data Committee of the American Crystallographic Association.</s>
+<s snum=35>Coeditors are J.D.H. Donnay, G. E. Cox of Leeds University, and Olga Kennard of the National Council for Medical Research, London.</s>
+<s snum=36>Financial grants have been received from the National Science Foundation and the (British) Institute of Physics for the compilation work and the publication costs.</s>
+<s snum=37>The continuity of the project is suggested by plans for an eventual third edition.</s>
+</p>
+<hl>SUBSTANCES:</hl>
+<p>
+<s snum=38>Elements, alloys, inorganic and organic compounds.</s>
+<s snum=39>(Metal data will not be included in the second edition, since these have been collected independently by W.B. Pearson, National Research Council, Ottawa, and published as A Handbook Of Lattice Spacings And Structures Of Metals And Alloys by Pergamon Press.)</s>
+</p>
+<hl>PROPERTIES:</hl>
+<p>
+<s snum=40>Crystallographic data resulting mainly from ~X-ray and electron diffraction measurements are presented.</s>
+<s snum=41>Cell dimensions, number of formula units per cell, space group, and specific gravity are given for all substances.</s>
+<s snum=42>For some substances, auxiliary properties such as the melting point are given.</s>
+</p>
+<hl>SOURCES OF DATA:</hl>
+<p>
+<s snum=43>Part /1, of the present edition covers the literature to mid-1948; Part /2,, up to the end of 1951.</s>
+<s snum=44>Much of the material comes directly from secondary sources such as Strukturbericht.</s>
+</p>
+<hl>CRITICALITY:</hl>
+<p>
+<s snum=45>The vast number of compounds to be covered, the limited resources to do the job, and the immediate need for this type of compilation precluded a thorough evaluation of all available data in the present edition.</s>
+<s snum=46>Future editions may be more critical.</s>
+</p>
+<hl>USE OF NOMENCLATURE, SYMBOLS, UNITS, PHYSICAL CONSTANTS:</hl>
+<p>
+<s snum=47>Since Parts /1, and /2, were prepared independently, the abbreviation schemes and the chemical symbols used differ in the two parts.</s>
+<s snum=48>The second edition should have greater uniformity.</s>
+</p>
+<hl>CURRENCY:</hl>
+<p>
+<s snum=49>A second edition is in preparation, and there are long range plans for a third.</s>
+</p>
+<hl>FORMAT:</hl>
+<p>
+<s snum=50>Data in the present edition are presented in tables and lists.</s>
+<s snum=51>Part /1, deals with the classification of crystalline substances by space groups and is not a numerical data compilation.</s>
+<s snum=52>The compounds are divided according to composition into seven categories.</s>
+<s snum=53>Part /2, contains determinative tables for the identification of crystalline substances.</s>
+<s snum=54>These are arranged according to crystal system.</s>
+<s snum=55>There are formula and name indexes covering both parts.</s>
+<s snum=56>References for Part /1, are given at the end and for Part /2, in the tables.</s>
+</p>
+<hl>PUBLICATION AND DISTRIBUTION:</hl>
+<p>
+<s snum=57>The present edition of Crystal Data (**f), published in 1954 as Memoir 60 of the Geological Society of America, is now out of print.</s>
+<s snum=58>The manuscript of the second edition will probably be ready by the end of 1960.</s>
+</p>
+<hl>/2,-3.CRYSTAL STRUCTURES</hl>
+<hl>ORGANIZATION:</hl>
+<p>
+<s snum=59>The author of Crystal Structures is Ralph W.G. Wyckoff, University of Arizona, Tucson, Arizona.</s>
+<s snum=60>The first section of this publication appeared in 1948 and the last supplement in 1960.</s>
+<s snum=61>Though now complete, the publication is included in this directory because of its importance and because of the long-term nature of its preparation.</s>
+</p>
+<hl>SUBSTANCES:</hl>
+<p>
+<s snum=62>Elements, inorganic and organic compounds (no alloys).</s>
+</p>
+<hl>PROPERTIES:</hl>
+<p>
+<s snum=63>The data presented are derived almost entirely from ~X-ray diffraction measurements and include atomic coordinates, cell dimensions, and atomic and ionic radii.</s>
+</p>
+<hl>SOURCES OF DATA:</hl>
+<p>
+<s snum=64>Published literature.</s>
+</p>
+<hl>CRITICALITY:</hl>
+<p>
+<s snum=65>The aim was to state the results of all available determinations of atomic positions in crystals.</s>
+<s snum=66>Presumably the tabulated data are best available values.</s>
+<s snum=67>The critical comments in the textual sections of this publication are invaluable.</s>
+</p>
+<hl>USE OF NOMENCLATURE, SYMBOLS, UNITS, PHYSICAL CONSTANTS:</hl>
+<p>
+<s snum=68>The terminology used conforms to that of Internationale Tabellen Zur Bestimmung Von Kristallstrukturen.</s>
+</p>
+<hl>Currency:</hl>
+<p>
+<s snum=69>During the years of publication, supplement and replacement sheets were issued periodically.</s>
+<s snum=70>Coverage of the literature extends through 1954 and includes some 1955 references.</s>
+<s snum=71>It is to be hoped that some way will be found to keep this important work current.</s>
+</p>
+<hl>FORMAT:</hl>
+<p>
+<s snum=72>The publication form is that of loose-leaf sheets (**f) contained in binders.</s>
+<s snum=73>The book is divided into chapters and in each chapter the material is grouped into Text, Tables, Illustrations, and Bibliography.</s>
+<s snum=74>Each group is paginated separately; numbers sometimes followed by letters are used so that insertions can be made.</s>
+<s snum=75>Inorganic structures are found in Chapters /2,-/12,, organic structures in Chapters /13,-/15,.</s>
+<s snum=76>Within each chapter an effort has been made to group together those crystals with similar structures.</s>
+<s snum=77>There are three indexes, i.e., an inorganic formula index, a mineralogical name index, and a name index to organic compounds.</s>
+</p>
+<hl>PUBLICATION AND DISTRIBUTION:</hl>
+<p>
+<s snum=78>Publisher of Crystal Structures is Interscience Publishers, 250 Fifth Avenue, New York 1, N. Y..</s>
+<s snum=79>The work consists of four sections and 5 supplements.</s>
+<s snum=80>Price of the complete work including all necessary binders is $148.50.</s>
+</p>
+<hl>/2,-4.DANA'S SYSTEM OF MINERALOGY</hl>
+<hl>ORGANIZATION:</hl>
+<p>
+<s snum=81>Six editions of James Dwight Dana's System appeared between 1837 and 1892.</s>
+<s snum=82>In 1915 Edward S. Dana, editor of the sixth edition, asked W. E. Ford of Yale University to prepare a seventh edition of his father's work.</s>
+<s snum=83>A number of people became involved in the preparation but work was slow until 1937.</s>
+<s snum=84>In that year a grant was obtained from the Penrose Fund of the Geological Society of America to finance additional full-time workers.</s>
+<s snum=85>Money was also advanced by the publishers, John Wiley + Sons, Inc..</s>
+<s snum=86>Volume /1, was completed in 1941 and published in 1944.</s>
+<s snum=87>The editors of this volume and Volume /2, were the late Charles Palache, Clifford Frondel, and the late Harry Berman, all of Harvard University.</s>
+<s snum=88>Work on Volume /2, was begun in 1941, interrupted by the war in 1942, and resumed in 1945.</s>
+<s snum=89>The volume was completed in 1950 and published in 1951.</s>
+<s snum=90>A supplementary grant from the Geological Society of America helped finance its publication.</s>
+<s snum=91>Besides the editors there were many contributors in the United States and Great Britain to Volumes /1, and /2,.</s>
+<s snum=92>W. E. Ford, for example, continued to supply data on the occurrence of minerals until his death in 1939.</s>
+<s snum=93>Volume /3, is nearing completion and there are plans to revise Volume /1,.</s>
+<s snum=94>The project is currently supported by Harvard University.</s>
+</p>
+<hl>SUBSTANCES:</hl>
+<p>
+<s snum=95>Minerals.</s>
+</p>
+<hl>PROPERTIES:</hl>
+<p>
+<s snum=96>Crystallographic, physical, optical, and chemical properties.</s>
+<s snum=97>The crystallographic data given include interaxial angles and unit cell dimensions; the physical property values include hardness, melting point, and specific gravity.</s>
+</p>
+<hl>SOURCES OF DATA:</hl>
+<p>
+<s snum=98>Almost entirely original articles in journals; abstracts and other compilations on rare occasions when original papers are not available.</s>
+</p>
+<hl>CRITICALITY:</hl>
+<p>
+<s snum=99>All information is carefully appraised and uncertain facts are designated by (?)</s>
+<s snum=100>.</s>
+<s snum=101>An authentic diffraction pattern is always obtained and optical properties are frequently checked.</s>
+</p>
+<hl>USE OF NOMENCLATURE, SYMBOLS, UNITS, PHYSICAL CONSTANTS:</hl>
+<p>
+<s snum=102>Recommendations of international authorities, such as the International Union of Crystallography, are followed.</s>
+<s snum=103>There is a complete synonymy at the beginning of each species description.</s>
+</p>
+<hl>CURRENCY:</hl>
+<p>
+<s snum=104>Currency in the usual sense cannot be maintained in an undertaking of this sort.</s>
+</p>
+<hl>FORMAT:</hl>
+<p>
+<s snum=105>The data are presented in text and tables in bound volumes.</s>
+<s snum=106>Volume /1, of the seventh edition contains an introduction and data for eight classes of minerals; Volume /2, contains data for forty-two classes.</s>
+<s snum=107>References are given at the end of each mineral description and a general index is given at the end of each volume.</s>
+<s snum=108>There will be a comprehensive index in Volume /3, covering all three volumes.</s>
+</p>
+<hl>PUBLICATION AND DISTRIBUTION:</hl>
+<p>
+<s snum=109>Volume /1, (**f) of the seventh edition of Dana's System Of Mineralogy was published in 1944 and Volume /2, (**f) in 1951 by John Wiley + Sons, Inc., New York, N. Y..</s>
+<s snum=110>(The association of Wiley + Sons with the Dana Mineralogies dates back to 1844 when they published the second edition of the System.)</s>
+<s snum=111> The two volumes are available from the publisher for $14.00 and $16.00, respectively.</s>
+</p>
+<hl>/2,-5.THE GROTH INSTITUTE</hl>
+<hl>ORGANIZATION:</hl>
+<p>
+<s snum=112>``The Groth Institute'', which was established in 1958, is a group activity affiliated with the Physics Department of The Pennsylvania State University, University Park, Pa..</s>
+<s snum=113>Ray Pepinsky is the Director.</s>
+<s snum=114>The Institute derives its name from Paul von Groth's Chemische Krystallographie, a five-volume work which appeared between 1906 and 1919.</s>
+<s snum=115>The resident staff is large and consists of professional assistants, graduate students, abstractors, librarian, technical editor, machine operators, secretarial help, and others.</s>
+<s snum=116>There are also corresponding members and outside advisory groups.</s>
+<s snum=117>The Air Force Office of Scientific Research has provided financial assistance in the early stages of the Institute's program.</s>
+</p>
+<hl>SUBSTANCES:</hl>
+<p>
+<s snum=118>All crystalline substances and other solid-state materials.</s>
+</p>
+<hl>PROPERTIES:</hl>
+<p>
+<s snum=119>The aim is to collect a very broad range of physical, chemical, morphological, and structural data for crystals on an encyclopedic scale and to seek all possible useful and revealing correlations of properties with internal structure.</s>
+</p>
+<hl>SOURCES OF DATA:</hl>
+<p>
+<s snum=120>The first stage of operation has centered on the literature imaging of critical or summarizing tabulations such as the Barker Index.</s>
+<s snum=121>Coverage of primary literature will follow.</s>
+<s snum=122>Unpublished data will be available to the Groth institute from cooperating groups and individuals.</s>
+</p>
+<hl>CRITICALITY:</hl>
+<p>
+<s snum=123>Critical evaluation of all data compiled is not a primary aim of this project.</s>
+<s snum=124>However, the proposed correlation of the many interrelated properties of crystals will reveal discrepancies in the recorded data and suggest areas for reinvestigation.</s>
+<s snum=125>In addition, the availability of computers will permit recalculation and refinement of much structural information.</s>
+</p>
+<hl>USE OF NOMENCLATURE, SYMBOLS, UNITS, PHYSICAL CONSTANTS:</hl>
+<p>
+<s snum=126>For punched-card or tape storage of information all literature values must be conformed to a common language.</s>
+<s snum=127>In this way a degree of unification of nomenclature, symbols, and units will be realized.</s>
+</p>
+</txt>
+</doc>

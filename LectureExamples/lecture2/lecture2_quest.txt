@@ -1,0 +1,4 @@
+What is your name?
+What is your quest?
+What is your favorite color?
+What is the capital of Assyria?

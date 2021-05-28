@@ -1,0 +1,130 @@
+<doc>
+<docno>br-j75</docno>
+<txt>
+<p>
+<s snum=1>Furthermore, it has made an exact assessment of the removal mechanisms possible.</s>
+</p>
+<p>
+<s snum=2>The instrument is shown in Fig. 1 and consists essentially of a hard, sharp, tungsten carbide knife which is pushed along the substrate to remove the coating.</s>
+<s snum=3>The force required to accomplish removal is plotted, by means of an electronic recorder, against distance of removal.</s>
+<s snum=4>Since the removal force is a function of coating thickness, a differential transformer pickup has been incorporated into the instrument to accurately measure film thickness.</s>
+<s snum=5>This, too, is recorded against distance by a repeat run over the same track previously cut.</s>
+<s snum=6>A number of adjustment features are included in the Hesiometer to facilitate measurement and permit ready removal of coatings deposited on such substrates as iron and other metals, glass, wood, and plastic surfaces.</s>
+<s snum=7>The measurement of topcoats on primers can also readily be carried out.</s>
+</p>
+<p>
+<s snum=8>Hesiometer results have been found to compare excellently with manual knife scratching tests.</s>
+<s snum=9>The instrumental method, however, is about 100 times more sensitive and yields numerical results which can be accurately repeated at wil over a period of time.</s>
+<s snum=10>If a wedge-shaped coating of increasing thickness is removed from a substrate by an instrument like the Hesiometer with a knife of constant rake angle, a number of removal mechanisms are often observed which depend upon the thickness of the coating.</s>
+<s snum=11>At low thicknesses a cutting (or shearing)phenomenon is often encountered.</s>
+<s snum=12>As the coating becomes thicker, the cutting may abruptly change to a cracking type of failure.</s>
+<s snum=13>If the coating becomes still thicker, a peeling type failure finally can occur.</s>
+<s snum=14>The typical appearance of these various mechanisms is illustrated in Figs. 2, 3, and 4, which are single frame enlargements of high speed movies taken during the course of the knife removal process.</s>
+<s snum=15>It can be seen from Fig. 2 that the cutting removal of a coating from its substrate involves pure cohesive failure of the coating.</s>
+<s snum=16>The molecular forces holding the coating to the substrate are obviously greater than the cohesive strength of the coating and failure occurs by shear along a plane starting at the tip of the knife and extending to the coating surface.</s>
+</p>
+<p>
+<s snum=17>The pictures of Figs. 3 and 4 show the cracking and peeling types of removal where the coating is detached by failure in a region at, or close to, the interface between coating and substrate.</s>
+</p>
+<p>
+<s snum=18>If the force required to remove the coatings is plotted against film thickness, a graph as illustrated schematically in Fig. 5 may characteristically result.</s>
+<s snum=19>Here, ~H is the coatings removal force measured parallel to the surface of the substrate and ~t is the film thickness.</s>
+<s snum=20>It can be seen that the force is characteristic of the removal process and changes abruptly from cutting to cracking to peeling removal.</s>
+<s snum=21>Also, it can be readily seen that the cutting and peeling types of failure show a steady state response, while the cracking mechanism is of a dynamic nature.</s>
+</p>
+<p>
+<s snum=22>It should be recalled that these three mechanisms can occur on the same coating deposited upon the same substrate merely as a function of changes in coatings thickness.</s>
+<s snum=23>Presumably the interfacial bond strength and gross cohesive properties are identical in each case.</s>
+<s snum=24>What then, are the factors that contribute to these phenomena?</s>
+<s snum=25>Why should the ``practical adhesion'' of a coating as assessed by a knife method change, initially increasing rather rapidly and then decreasing stepwise to very low values as the knife is forced through a coating of increasing thickness?</s>
+</p>
+<hl>CUTTING MECHANISM OF COHESIVE FAILURE</hl>
+<p>
+<s snum=26>The cutting (or shearing) removal process has been previously described.</s>
+<s snum=27>It was found that the coating is separated from its substrate entirely by cohesive failure.</s>
+<s snum=28>The details of the removal process are shown schematically in Fig. 6.</s>
+<s snum=29>The various forces result from the reaction of the removed paint chip against the face of the knife and along the shear plane, which makes an angle ~|f with the substrate.</s>
+<s snum=30>The action and reaction forces are ~R and **f, respectively and are equal and opposite in direction.</s>
+<s snum=31>All the other force vectors are derived from these.</s>
+<s snum=32>**f is the force required to cut a coating of thickness ~t from the substrate.</s>
+<s snum=33>**f is the shear force along the shear plane; **f and **f are the thrust forces acting against coating and knife, respectively; **f is the normal compressive force acting on the shear plane; **f is the friction force between chip and knife surfaces, and ~P is the normal force acting on the face of the knife.</s>
+<s snum=34>~|a is the rake angle of the knife; ~|f is the angle the shear plane makes with the substrate; ~|t is the friction angle; and ~|b is the angle the resultants make with the plane of the substrate.</s>
+</p>
+<p>
+<s snum=35>An analysis of the vector relationships shows that the rake angle ~|a and the friction angle ~|t determine the vector direction **f of the force resultants ~R and **f.</s>
+<s snum=36>Consequently, both the rake angle of the knife as well as the friction occurring between the back of the removed coating and the front of the knife will determine in large part the detailed mechanism of the cutting removal process.</s>
+</p>
+<p>
+<s snum=37>It is difficult to measure the direction and magnitude of ~R directly.</s>
+<s snum=38>In actual practice, the values most readily amenable to measurement are the cutting force **f and the shear angle ~|f.</s>
+<s snum=39>These two values and the rake angle ~|a are sufficient to determine the other parameters of these relationships.</s>
+<s snum=40>~|a is defined by the geometry of the knife; ~|f can readily be determined by measuring the thickness of the coating before and after cutting from the substrate; **f is instrumentally determined.</s>
+<s snum=41>From Fig. 6 the relationship between these parameters can readily be derived and the cutting force is **f where ~|l is the shear strength of the coating and is a parameter of the coatings material, ~w is the width of the removed coating and ~t is its thickness.</s>
+</p>
+<p>
+<s snum=42>If the cutting force, **f is plotted against film thickness, a straight line should result passing through the origin and having slope **f.</s>
+<s snum=43>However, in the actual assessment of the cutting force by instrumental methods for any thickness of coating a number of spurious effects occur which must be taken into account and which make the measured value larger than the true cutting force indicated by eqn. (1).</s>
+</p>
+<hl>BLUNT KNIFE</hl>
+<p>
+<s snum=44>One of these is the fact that the knife employed, no matter how well sharpened, will have a slightly rounded cutting edge.</s>
+<s snum=45>This signifies that ~|a, the rake angle, is no longer a constant to zero film thickness.</s>
+<s snum=46>The curvature of this bluntness is, in the case of the Carboloy knife employed in the Hesiometer, determined by the grain sizes of the polished grit and the tungsten carbide crystals cemented together in the knife body and is in the order of 0.1 to 0.2 mil..</s>
+</p>
+<p>
+<s snum=47>The force vector concept of Fig. 6 can readily be applied to this condition also.</s>
+<s snum=48>Because the rake angle **f at the tip of the knife is very much smaller (or even negative) when compared to the value of ~|a for the major portion of the knife, a very rapid increase in cutting force with thickness will result.</s>
+<s snum=49>This reduces to the relationship: **f where **f is the intercept at zero thickness of the extrapolation of the slope indicated in eqn. (1), **f is the thickness of the coating equivalent to the rounding off of the knife tip, **f is a straight line first approximation of this roundness, and the other symbols are equivalent to those of eqn. (1).</s>
+<s snum=50>It can be seen that **f is a constant, and is determined for the most part by the geometry of the knife.</s>
+<s snum=51>The blunter the knife, the higher is the value of **f.</s>
+<s snum=52>The importance of a hard, abrasion resistant knife material like the Carboloy employed in the Hesiometer immediately becomes apparent.</s>
+<s snum=53>Softer knives would blunt very rapidly, making the value of **f inexact.</s>
+<s snum=54>In extreme cases of very soft knives this value may even change during the course of a measurement.</s>
+</p>
+<hl>KNIFE FRICTION</hl>
+<p>
+<s snum=55>A second factor which enters into the practical measurement of the instrumentally determined cutting force is the frictional resistance caused by the bottom of the knife against the substrate.</s>
+<s snum=56>This is not a constant value like **f, but varies with the thickness of the coating and the direction and magnitude of the resultants ~R and **f of Fig. 6.</s>
+<s snum=57>Under equilibrium conditions of cutting the chip exerts a thrust **f against the knife which tends to push it into the substrate or lift it away from the substrate depending on the vector direction of **f.</s>
+<s snum=58>The resultant friction force, **f is thus directly proportional to **f and consequently also to film thickness.</s>
+</p>
+<p>
+<s snum=59>The value of **f can readily be assessed by determining the frictional force exerted on the knife while running over the previously stripped coating track under various external loadings.</s>
+<s snum=60>A straight line relationship is usually observed in a plot of **f against load ~L, having slope ~k, and **f Since the load ~L, under actual cutting conditions is caused by **f, it can be seen that **f </s>
+</p>
+<p>
+<s snum=61>The measured force, ~H, in cutting removal of coatings from their substrates consequently can be seen to be the sum of that force required to cut the coating, **f that due to the bluntness of the knife, **f, and that due to the friction between the bottom of the knife and the substrate, **f, or **f The first two forces are directly interrelated and depend upon film thickness, whereas **f is independent of these two and is a constant for a given knife/coating combination.</s>
+</p>
+<p>
+<s snum=62>These theoretical relationships are more clearly illustrated in Fig. 7 and their sum can be seen to correlate in form with practical measurements made with the Hesiometer as illustrated in the first portion of Fig. 5 for the cutting mechanism.</s>
+</p>
+<hl>CHIPPING MECHANISM OF COHESIVE FAILURE</hl>
+<p>
+<s snum=63>Although a large number of coatings systems, particularly at low thicknesses fail cohesively by the cutting mechanism, frequently a second type of cohesive failure may also take place.</s>
+<s snum=64>This is a chipping, dynamic type failure encountered with very brittle coatings resins or very highly pigmented films.</s>
+<s snum=65>This is shown in the photomicrograph of Fig. 8.</s>
+</p>
+<p>
+<s snum=66>The basic difference between the continuous cutting mechanism and that of the chipping mechanism is that instead of shear occurring in the coating ahead of the knife continuously without fracture, rupture intermittently occurs along the shear plane.</s>
+<s snum=67>The detailed mechanisms of this type of failure have been studied extensively by Merchant for metal cutting, and the principles found can be directly applied to coatings.</s>
+</p>
+<p>
+<s snum=68>By studying high speed movies made of this type of failure, the sequence of relationships as schematically illustrated in Fig. 9 could be observed.</s>
+</p>
+<p>
+<s snum=69>In the first picture (9~a) the knife is just beginning to advance into the inclined surface which was left from the previous chip formation.</s>
+<s snum=70>In the next, the shear plane angle is high, and extends to the inclined work surface.</s>
+<s snum=71>With increasing advance of the knife into the coating the shear plane extends to the coatings surface and the shear angle rapidly decreases.</s>
+<s snum=72>Eventually, rupture occurs along the shear plane (9~e), and the cycle repeats itself.</s>
+</p>
+<p>
+<s snum=73>Merchant has found that the same basic relationships which describe the geometry and force systems in the case of the cutting mechanism can also be applied to the discontinuous chip formation provided the proper values of instantaneous shear angle and instantaneous chip thickness or cross-sectional area are used.</s>
+<s snum=74>Consequently, if the shear angle ~|f is replaced by the rupture angle **f, the relationships as described in eqns. (1), (2), (4), and (6) will directly apply.</s>
+</p>
+<hl>THE CRACKING MECHANISM</hl>
+<p>
+<s snum=75>Under equilibrium cutting conditions, the chip exerts a force **f against the coating and an equal opposite force **f against the knife in the plane of the substrate as shown in Fig. 6.</s>
+<s snum=76>If the rake angle ~|a of the knife is high enough and the friction angle ~|t between the front of the knife and the back of the chip is low enough to give a positive value for **f, the resultant vector ~R will lie above the plane of the substrate.</s>
+</p>
+</txt>
+</doc>

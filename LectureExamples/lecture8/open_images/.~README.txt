@@ -1,0 +1,4 @@
+1)
+cut -f 1 -d , oidv6-train-annotations-bbox.csv | sed 's/"//g' | sort | uniq > all.ids
+2) manually deleted "Image ID"
+3)

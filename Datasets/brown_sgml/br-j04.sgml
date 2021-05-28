@@ -1,0 +1,153 @@
+<doc>
+<docno>br-j04</docno>
+<txt>
+<p>
+<s snum=1>A proton magnetic resonance study of polycrystalline **f as a function of magnetic field and temperature is presented.</s>
+<s snum=2>**f is paramagnetic, and electron paramagnetic dipole as well as nuclear dipole effects lead to line broadening.</s>
+<s snum=3>The lines are asymmetric and over the range of field **f gauss and temperature **f the asymmetry increases with increasing **f and decreasing T.</s>
+<s snum=4>An isotropic resonance shift of **f to lower applied fields indicates a weak isotropic hyperfine contact interaction.</s>
+<s snum=5>The general theory of resonance shifts is used to derive a general expression for the second moment **f of a polycrystalline paramagnetic sample and is specialized to **f.</s>
+<s snum=6>The theory predicts a linear dependence of **f on **f, where |j is the experimentally determined Curie-Weiss constant.</s>
+<s snum=7>The experimental second moment **f conforms to the relation **f in agreement with theory.</s>
+<s snum=8>Hence, the electron paramagnetic effects (slope)can be separated from the nuclear effects (intercept).</s>
+<s snum=9>The paramagnetic dipole effects provide some information on the particle shapes.</s>
+<s snum=10>The nuclear dipole effects provide some information on the motions of the hydrogen nuclei, but the symmetry of the **f bond in **f remains in doubt.</s>
+</p>
+<hl>INTRODUCTION</hl>
+<p>
+<s snum=11>The magnetic moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic resonance properties of nuclei.</s>
+<s snum=12>It is important to consider and experimentally verify this influence since quantitative nuclear resonance is becoming increasingly used in investigations of structure.</s>
+<s snum=13>**f appeared to be well suited for the study of these matters, since it is a normal paramagnet, with three unpaired electrons on the chromium, its crystal structure is very simple, and the unknown position of the hydrogen in the strong **f bond provides structural interest.</s>
+</p>
+<p>
+<s snum=14>We first discuss the **f bond in **f.</s>
+<s snum=15>We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment.</s>
+<s snum=16>Indeed it is possible to separate electron paramagnetic from nuclear effects.</s>
+<s snum=17>The information provided by the electron paramagnetic effects is then discussed, and finally the nuclear effects are interpreted in terms of various motional-modified models of the **f bond in **f.</s>
+</p>
+<hl>**F BOND IN **F</hl>
+<p>
+<s snum=18>Theoretical studies of the hydrogen bond generally agree that the **f bond will be linear in the absence of peculiarities of packing in the solid.</s>
+<s snum=19>Moreover, it will be asymmetric until a certain critical **f distance is reached, below which it will become symmetric.</s>
+<s snum=20>There is ample evidence from many sources that the **f bond in **f is symmetric.</s>
+<s snum=21>The **f distance in **f is 2.26 ~A.</s>
+<s snum=22>There is evidence, though less convincing than for **f, that the **f bond in nickel dimethylglyoxime is symmetric.</s>
+<s snum=23>Here the **f distance is 2.44 ~A.</s>
+<s snum=24>A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 ~A, but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds.</s>
+<s snum=25>Douglass has studied the crystal structure of **f by x-ray diffraction.</s>
+<s snum=26>He finds the structure contains an **f bond with the **f distance of **f.</s>
+<s snum=27>There is, then, the possibility that this **f bond is symmetric, although Douglass was unable to determine its symmetry from his x-ray data.</s>
+</p>
+<p>
+<s snum=28>Douglass found **f to be trigonal, Laue symmetry **f, with **f, **f.</s>
+<s snum=29>X-ray and experimental density showed one formula unit in the unit cell, corresponding to a paramagnetic ion density of **f.</s>
+<s snum=30>The x-ray data did not permit Douglass to determine uniquely the space group, but a negative test for piezoelectricity led him to assume a center of symmetry.</s>
+<s snum=31>Under this assumption the space group must be **f and the following are the positions of the atoms in the unit cell.</s>
+<s snum=32>**f.</s>
+<s snum=33>This space group requires the hydrogen bond to be symmetric.</s>
+<s snum=34>Douglass found powder intensity calculations and measurements to agree best for **f.</s>
+<s snum=35>These data lead to a structure in which sheets of ~Cr atoms lie between two sheets of ~O atoms.</s>
+<s snum=36>The ~O atoms in each sheet are close packed and each ~Cr atom is surrounded by a distorted octahedron of ~O atoms.</s>
+<s snum=37>The **f layers are stacked normal to the [111] axis with the lower oxygens of one layer directly above the upper oxygens of the neighboring lower layer, in such a manner that the repeat is every three layers.</s>
+<s snum=38>The separate layers are joined together by hydrogen bonds.</s>
+<s snum=39>A drawing of the structure is to be found in reference 6.</s>
+</p>
+<p>
+<s snum=40>The gross details of the structure appear reasonable.</s>
+<s snum=41>The structure appears to be unique among ~ROOH compounds, but is the same as that assumed by **f.</s>
+<s snum=42>The bond angles and distances are all within the expected limits and the volume per oxygen is about normal.</s>
+<s snum=43>However, the possible absence of a center of symmetry not only moves the hydrogen atom off **f, but also allows the oxygen atoms to become nonequivalent, with **f at **f and **f at **f (space group **f), where **f represents the oxygens on one side of the **f layers and **f those on the other side.</s>
+<s snum=44>However, any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 ~A or the non-hydrogen-bonded **f interlayer interactions which are already quite short at 2.58 ~A.</s>
+<s snum=45>Hence it is difficult to conceive of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence.</s>
+<s snum=46>The only effect of lack of a center would then be to release the hydrogen atoms to occupy general, rather than special, positions along the [111] axis.</s>
+</p>
+<p>
+<s snum=47>If the **f bond is linear then there are three reasonable positions for the hydrogen atoms: (1) The hydrogen atoms are centered and hence all lie on a sheet midway between the oxygen sheets; (2) all hydrogen atoms lie on a sheet, but the sheet is closer to one oxygen sheet than to the other; (3) hydrogen atoms are asymmetrically placed, either randomly or in an ordered way, so that some hydrogen atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms.</s>
+<s snum=48>Position (2) appears to us to be unlikely in view of the absence of a piezoelectric effect and on general chemical structural grounds.</s>
+<s snum=49>A randomization of ``ups'' and ``downs'' is more likely than ordered ``ups'' and ``downs'' in position (3) since the hydrogen atoms are well separated and so the position of one could hardly affect the position of another, and also since ordered ``up'' and ``down'' implies a larger unit cell, for which no evidence exists.</s>
+<s snum=50>Therefore, the only unknown structural feature would appear to be whether the hydrogen atoms are located symmetrically (1) or asymmetrically (3).</s>
+</p>
+<hl>EXPERIMENTAL PROCEDURES</hl>
+<hl>SAMPLES</hl>
+<p>
+<s snum=51>Douglass prepared his sample of **f by thermal decomposition of aqueous chromic acid at 300-325`~C.</s>
+<s snum=52>Dr. Douglass was kind enough to lend us about 5 grams of his material.</s>
+<s snum=53>This material proved to be unsatisfactory, since we could not obtain reproducible results on various portions of the sample.</s>
+<s snum=54>Subsequently, we learned from Douglass that his sample contained a few percent **f impurity.</s>
+<s snum=55>Since **f is ferromagnetic, we felt that any results obtained from the magnetically contaminated **f would be suspect.</s>
+</p>
+<p>
+<s snum=56>Plane suggested another preparation of **f which we used here.</s>
+<s snum=57>500 ~ml of 1~M aqueous **f with 1 ~g **f added are heated in a bomb at 170`~C for 48 hours.</s>
+<s snum=58>A very fine, gray solid (about 15 ~g) is formed, water-washed by centrifugation, and dried at 110`~C.</s>
+</p>
+<p>
+<s snum=59>Differential thermal analysis showed a very small endothermic reaction at 340`~C and a large endothermic reaction at 470`~C.</s>
+<s snum=60>This latter reaction is in accord with the reported decomposition of **f.</s>
+<s snum=61>Thermogravimetric analysis showed a weight loss of 1.8% centered at 337`~C and another weight loss of 10.8% at 463`~C.</s>
+<s snum=62>The expected weight loss for **f going to **f and **f is 10.6%.</s>
+<s snum=63>Mass spectrometric analysis of gases evolved upon heating to 410`~C indicated nitrogen oxides and water vapor.</s>
+<s snum=64>The small reaction occurring at 337`~C is probably caused by decomposition of occluded nitrates, and perhaps by a small amount of some hydrous material other than **f.</s>
+<s snum=65>All subsequent measurements were made on material which had been heated to 375`~C for one hour.</s>
+<s snum=66>Emission spectra indicated **f calcium and all other impurities much lower.</s>
+<s snum=67>Chromium analysis gave 58.8% ~Cr as compared with 61.2% theory.</s>
+<s snum=68>However, **f adsorbs water from the atmosphere and this may account for the low chromium analysis and high total weight loss.</s>
+</p>
+<p>
+<s snum=69>The x-ray diffraction pattern of the material, taken with ~CuK|a radiation, indicated the presence of no extra lines and was in good agreement with the pattern of Douglass.</s>
+<s snum=70>Magnetic analyses by R. G. Meisenheimer of this laboratory indicated no ferromagnetic impurities.</s>
+<s snum=71>**f was found to be paramagnetic with three unpaired electron per chromium atom and a molecular susceptibility of **f, where **f.</s>
+<s snum=72>For exactly three unpaired electrons the coefficient would be 3.10.</s>
+<s snum=73>An infrared spectrum, obtained by H. A. Benesi and R. G. Snyder of this laboratory, showed bands in the positions found by Jones.</s>
+</p>
+<p>
+<s snum=74>Electron microscopic examination of the **f sample showed it to be composed of nearly isotropic particles about 0.3|m in diameter.</s>
+<s snum=75>The particles appeared rough and undoubtedly the single-crystal domains are smaller than this.</s>
+<s snum=76>The x-ray data are consistent with particle sizes of 1000 ~A or greater.</s>
+<s snum=77>We found no obvious effects due to preferred orientation of the crystallites in this sample nor would we expect to on the basis of the shape found from electron microscopic examination.</s>
+</p>
+<hl>NUCLEAR MAGNETIC RESONANCE (~NMR) MEASUREMENTS</hl>
+<p>
+<s snum=78>The magnetic resonance absorption was detected by employing a Varian model **f broad line spectrometer and the associated 12-inch electromagnet system.</s>
+<s snum=79>One measurement at 40 ~Mc/sec was obtained with the Varian model **f unit.</s>
+<s snum=80>A bridged-T type of bridge was used in the 10-16~Mc/sec range.</s>
+<s snum=81>The ~rf power level was maintained small enough at all times to prevent obvious line shape distortions by saturation effects.</s>
+<s snum=82>A modulation frequency of 40~cps with an amplitude as small as possible, commensurate with reasonably good signal-to-noise quality, was used.</s>
+<s snum=83>Background spectra were obtained in all cases.</s>
+<s snum=84>The spectrometer was adjusted to minimize the amount of dispersion mode mixed in with the absorption signal.</s>
+</p>
+<p>
+<s snum=85>A single value of the thermal relaxation time **f at room temperature was measured by the progressive saturation method.</s>
+<s snum=86>The value of **f estimated at 470gauss was **f microseconds.</s>
+<s snum=87>A single measurement of the spin-spin relaxation time **f was obtained at 10~Mc/sec by pulse methods.</s>
+<s snum=88>This measurement was obtained by W. Blumberg of the University of California, Berkeley, by observing the breadth of the free induction decay signal.</s>
+<s snum=89>The value derived was 16 microseconds.</s>
+</p>
+<p>
+<s snum=90>Field shifts were derived from the mean value of the resonance line, defined as the field about which the first moment is zero.</s>
+</p>
+<p>
+<s snum=91>Second moments of the spectra were computed by numerical integration.</s>
+<s snum=92>Corrections were applied for modulation broadening, apparatus background, and field shift.</s>
+</p>
+<p>
+<s snum=93>Spectra were obtained over the temperature range of 77-294`K.</s>
+<s snum=94>For the low-temperature measurements the sample was cooled by a cold nitrogen gas flow method similar to that of Andrew and Eades.</s>
+<s snum=95>The temperature was maintained to within about **f for the period of time required to make the measurement (usually about one hour).</s>
+<s snum=96>One sample, which had been exposed to the atmosphere after evacuation at 375`~C, showed the presence of adsorbed water (about 0.3 ~wt %) as evidenced by a weak resonance line which was very narrow at room temperature and which disappeared, due to broadening, at low temperature.</s>
+<s snum=97>The data reported here are either from spectra from which the adsorbed water resonance could easily be eliminated or from spectra of samples evacuated and sealed off at 375`~C which contain no adsorbed water.</s>
+</p>
+<p>
+<s snum=98>The measured powder density of the **f used here was about **f, approximately one-third that of the crystal density (**f).</s>
+<s snum=99>Such a density corresponds to a paramagnetic ion density of about **f.</s>
+</p>
+<p>
+<s snum=100>Spectra were obtained from a powdered sample having the shape of a right circular cylinder with a height-to-diameter ratio of 4:1.</s>
+<s snum=101>The top of the sample was nearly flat and the bottom hemispherical.</s>
+<s snum=102>Spectra were also obtained from a sample in a spherical container which was made by blowing a bubble on the end of a capillary glass tube.</s>
+<s snum=103>The bubble was filled to the top and special precautions were taken to prevent any sample from remaining in the capillary.</s>
+<s snum=104>Spectra were also obtained from a third sample of **f which had been diluted to three times its original volume with powdered, anhydrous alundum (**f).</s>
+<s snum=105>This sample was contained in a cylindrical container similar to that described above.</s>
+</p>
+</txt>
+</doc>

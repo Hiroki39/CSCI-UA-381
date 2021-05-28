@@ -1,0 +1,188 @@
+<doc>
+<docno>br-e07</docno>
+<txt>
+<p>
+<s snum=1>The design of a mechanical interlocking frame is much like a mechanical puzzle, but once understood, the principles can be applied to any track and signal arrangement.</s>
+<s snum=2>In the frame are two sets of bars which interact with each other to prevent the operator from making dangerous moves.</s>
+<s snum=3>The main set of bars are the ``tappets'' and one tappet is connected to each lever.</s>
+<s snum=4>If the lever is pulled to clear a signal or move a switch, the tappet moves a short distance lengthwise at the same time.</s>
+</p>
+<p>
+<s snum=5>Close behind the plane of the tappets are the locking bars.</s>
+<s snum=6>These can also move a short distance but at right angles to the tappets.</s>
+<s snum=7>The number of locking bars required depends on how many false moves must be prevented.</s>
+</p>
+<p>
+<s snum=8>In the sides of the tappets are notches with sloping sides, and connection between the tappets and locking bars consist of cams called ``dogs''.</s>
+<s snum=9>Two or more dogs are mounted on each locking bar.</s>
+<s snum=10>These slide into and out of the notches in the tappets as the tappets are moved, locking and unlocking them.</s>
+</p>
+<p>
+<s snum=11>Here's how the scheme works: Suppose the operator pulls the lever to clear a particular signal.</s>
+<s snum=12>This also pulls the tappet connected to the particular lever and forces any dogs seated in the notches to the side, thus moving one or more locking bars.</s>
+<s snum=13>The dogs on the other ends of these locking bars are thus forced into notches in other tappets.</s>
+<s snum=14>By this scheme, pulling one signal to clear locks all the other switch and signal levers in safe positions until the first signal is again restored to normal.</s>
+</p>
+<p>
+<s snum=15>Interlocking signals are normally at stop or ``red'' position, and a lever must be pulled to ``clear'' the signal.</s>
+<s snum=16>This is not necessarily to green, however, for in some situations only a yellow indication is given to a train to let it into the ``plant''.</s>
+</p>
+<p>
+<s snum=17>There are other basic rules.</s>
+<s snum=18>A turnout may have two levers, one to actually move the switch points, the other to lock the points.</s>
+<s snum=19>A signal cannot be cleared until all the related turnouts are properly thrown and locked.</s>
+<s snum=20>Such locks are nearly always used where the switch points ``face'' oncoming traffic.</s>
+<s snum=21>The lock insures that the points are thrown all the way with no chance that a wheel flange will snag on a partly thrown point.</s>
+<s snum=22>If the points aren't thrown all the way, the turnout cannot be locked, and in turn, the signal cannot be cleared.</s>
+<s snum=23>Generally, these locks on turnouts are called ``facing point locks''.</s>
+</p>
+<p>
+<s snum=24>Figs. 1-6 show typical arrangements of track and signals.</s>
+<s snum=25>Each diagram is accompanied by a ``dog chart'', a list of the levers that show which other levers any particular lever will lock if pulled.</s>
+<s snum=26>The lines connecting the wedge-shaped dogs represent the locking bars at right angles to the tappet bars.</s>
+</p>
+<p>
+<s snum=27>By studying the track-signal diagrams you'll note several other details.</s>
+<s snum=28>Derails- mechanical track devices that actually guide the wheels off the rails if a train passes a ``stop'' signal- are used in many instances.</s>
+<s snum=29>``Home'' signals have two blades.</s>
+<s snum=30>The blacked-in blades indicate a fixed aspect- the blade does not move.</s>
+<s snum=31>As an engineer approaches the plant the position of the home signal is seen in advance when he passes the ``distant'' signal located beyond the limits of the interlocking plant.</s>
+<s snum=32>In some low-speed situations, the distant signal is fixed at caution.</s>
+<s snum=33>In other instances where there is no automatic block signaling, the distant has only green and yellow aspects.</s>
+</p>
+<p>
+<s snum=34>So much for the prototype.</s>
+</p>
+<p>
+<s snum=35>The interlocking frame we built at the Model Railroader workshop and then installed on Paul Larson's railroad follows the Fig. 1 scheme and is shown beginning in Fig. 7, page 65, and in the photos.</s>
+<s snum=36>Here's how it can be built.</s>
+</p>
+<hl>FRAME</hl>
+<p>
+<s snum=37>The sizes of pieces needed for the interlocking frame are shown in the notes within Fig. 7, most of the bars being 1/8'' brass in 1/4'' and 1/2'' widths.</s>
+<s snum=38>You may change the dimensions to suit a frame for more or fewer levers and locks as you wish.</s>
+<s snum=39>Our instructions assume you are building this particular frame, which is for a junction.</s>
+</p>
+<p>
+<s snum=40>When cutting the pieces, dress the ends smooth, and square with a smooth file or sanding disk.</s>
+<s snum=41>Start with the right-hand piece ``~B'', **f, soldering it to the lower piece ``~A'' of the same material but 12'' long.</s>
+<s snum=42>Let exactly 1'' of ``~A'' extend beyond ``~B'' and use a square to check your angle to exactly 90 degrees.</s>
+</p>
+<p>
+<s snum=43>Now lay 12 pieces of **f cut 5-3/4'' long side by side but separated by 12 pieces of the same material 1/2'' sq..</s>
+<s snum=44>This gives you the spacing for locating the left-hand piece ``~B''.</s>
+<s snum=45>Compress the assembly when you make the mark to show the location for ``~B''.</s>
+<s snum=46>Solder this second ``~B'' to ``~A'' at right angles.</s>
+<s snum=47>There should be 10'' between the two parallel members and each should be 1'' from an end of the long piece.</s>
+</p>
+<p>
+<s snum=48>Cap this assembly (with spacing bars in place) with a **f bar.</s>
+<s snum=49>Tack-solder all the 1/2'' sq. pieces to the 10'' and 12'' members.</s>
+<s snum=50>These will be drilled and tapped later on.</s>
+</p>
+<p>
+<s snum=51>Now cut five **f locking bar spacers (which run horizontally).</s>
+<s snum=52>Position these using six intermediate temporary **f spacers and locate the upper 12'' bar ``~A''.</s>
+<s snum=53>Solder it and the five locking bar spacers to the frame.</s>
+<s snum=54>Now place 12 pieces 1/2'' sq. on this edge as we did before and space them with the 5-3/4'' long ``tappets'', as they are called.</s>
+<s snum=55>Cap with a **f bar and tack-solder in place.</s>
+<s snum=56>Cap the locking bar spacers with two **f directly under the first two ``~B'' pieces.</s>
+<s snum=57>Remove all the loose spacing bars.</s>
+</p>
+<p>
+<s snum=58>Mark and center-punch all the holes required for screws to hold this assembly together.</s>
+<s snum=59>See Fig. 7.</s>
+<s snum=60>Placement of these holes is not critical, but they should be located so that the centers are about 1/8'' from any edge.</s>
+<s snum=61>Drill all No. 50 and counter-drill all except the ``~A'' pieces size 43.</s>
+<s snum=62>Tap the ``~A'' pieces 2-56.</s>
+</p>
+<p>
+<s snum=63>Now unsolder and disassemble the frame except for the two 12'' and the first two 3-3/4'' bars (``~A'' and ``~B'' pieces), which are soldered together.</s>
+<s snum=64>Either lay the components aside in proper order or code them with numbers and letters so they may be replaced in their proper positions.</s>
+<s snum=65>Dress all surfaces with a file, cleaning off all solder and drilling burrs.</s>
+</p>
+<p>
+<s snum=66>Drill 20 No. 47 holes in the upper piece ``~A'' as shown in Fig. 7.</s>
+<s snum=67>Tap these 3-48 for mounting the electrical contact later on.</s>
+<s snum=68>Note 6 and 8 lock levers don't require holes for contacts.</s>
+</p>
+<p>
+<s snum=69>Now reassemble the frame, using **f roundhead steel screws and nuts.</s>
+<s snum=70>Put the 12 tappets and some **f locking bar spacers in the frame to help align all the components before you tighten the screws.</s>
+<s snum=71>Be sure the tappets are not pinched by a twisted 1/2'' sq. spacer.</s>
+<s snum=72>As an anchor for the spring lock, insert a **f bar in the lower left corner of the frame as shown in Fig. 7.</s>
+<s snum=73>Drill a No. 43 hole through the pieces and secure with a 2-56 nut and screw.</s>
+<s snum=74>Drill two No. 50 holes, one in the insert and one in the locking bar spacer directly above it, and tap 2-56.</s>
+<s snum=75>Number all the tappet bars before removing them so they can be replaced in the same slots.</s>
+<s snum=76>Remove all other loose pieces and file the edges of the basic frame smooth.</s>
+<s snum=77>Cut five pieces of **f brass bar stock 3-3/4'' long.</s>
+<s snum=78>These are supporting members for the short locking bars.</s>
+<s snum=79>Locate their positions in Fig. 7 and drill No. 43 to match the corresponding holes in the frame.</s>
+<s snum=80>Cut off excess screw lengths and file flush with either frame or nut.</s>
+<s snum=81>Drill four No.19 and four No. 28 holes in the 12'' long ``~A'' pieces.</s>
+<s snum=82>Locate the position from Fig. 7.</s>
+</p>
+<hl>TAPPETS AND LOCKING BARS</hl>
+<p>
+<s snum=83>Draw-file No. 1 tappet to a smooth fit in its respective slot and square the ends.</s>
+<s snum=84>Break the end corners with a slight 45 degree chamfer.</s>
+<s snum=85>Drill a No. 50 hole 1-1/4'' from one end and tap 2-56.</s>
+<s snum=86>(See Fig. 7.)</s>
+<s snum=87> Put a 2-56roundhead screw into the hole, cut off the excess threads and file flush with the underside of the bar.</s>
+<s snum=88>To find the other stop screw position, insert the tappet into the frame and hold the screw head tight against the frame edge.</s>
+<s snum=89>Scribe a line across the bar on the other end of the tappet, 1/4'' plus half the diameter of the 2-56 screw head (about 5/64'') away from the frame edge.</s>
+<s snum=90>Total distance is about 21/64''.</s>
+<s snum=91>Tend to make this dimension slightly undersize so you can file the screw head to get exactly 1/4'' tappet movement.</s>
+<s snum=92>Drill a No. 50 hole, tap 2-56 and insert a roundhead 2-56screw as you did on the first end.</s>
+<s snum=93>Drill a No. 47 hole crosswise through the tappet at the position shown in Figs. 7 and 8.</s>
+<s snum=94>Repeat these drill and tap operations for each of the tappet bars.</s>
+</p>
+<p>
+<s snum=95>To each tappet except 6 and 8, solder a **f piece of brass and file to the tapered shape shown in Figs.6 and 8.</s>
+<s snum=96>These will serve as lifting pads for the electrical contacts.</s>
+</p>
+<p>
+<s snum=97>Fitting the locking bars and making the locking pieces is a rather tedious job since stop screws, tappets and locking bars must be removed and replaced many times.</s>
+<s snum=98>As the work progresses the frame and moving parts become a sort of Chinese puzzle where several pieces must be removed before the part you are working on is accessible.</s>
+<s snum=99>A little extra work here will pay off with a smooth, snug-fitting machine when you are finished.</s>
+<s snum=100>Each completed locking bar should remain in place as the work progresses to insure snug fitting.</s>
+</p>
+<p>
+<s snum=101>The order of fitting is not too important.</s>
+<s snum=102>However, we started with the first row of bars and worked our way back.</s>
+<s snum=103>Since the same method of shaping and fitting the dogs and notches is used throughout, we will only describe the construction of one locking bar.</s>
+<s snum=104>Figs.7 and 8 give all pertinent dimensions.</s>
+<s snum=105>All the bars are cut from **f brass.</s>
+<s snum=106>The lengths of each piece are listed at the bottom of Fig. 7.</s>
+<s snum=107>Bar ``~C'' is 2-3/4'' long.</s>
+<s snum=108>Draw-file the edges, square up the ends and put a slight chamfer on the edges so they will not snag in the frame.</s>
+</p>
+<p>
+<s snum=109>Fig. 8 gives the dimensions for locating the dog-pin holes.</s>
+<s snum=110>Center-punch and drill the No. 31 hole 7/16'' from one end of the bar.</s>
+<s snum=111>Chuck a length of 1/8'' dia.drill rod into a drill press or some similar turning device and while it is rotating file the end square and then file a slight taper 1/8'' long.</s>
+<s snum=112>Cut the piece about 9/32'' or 5/16'' long and drive it into the No.31 hole drilled in the locking bar.</s>
+<s snum=113>File the bottom edge flush with the bar and the top 1/8'' above the bar.</s>
+<s snum=114>This dog will engage a notch to be cut in tappet 3.</s>
+</p>
+<p>
+<s snum=115>Place the locking bar in proper position and insert tappet 3.</s>
+<s snum=116>Scribe a line through the center of the pin and across the face of tappet 3, parallel to piece ``~A''.</s>
+<s snum=117>See the drawings for the shape of the notch.</s>
+<s snum=118>Scribe ~V-shaped lines on the bar and rough out with either a hack saw or a cutting disk in a hand power tool.</s>
+<s snum=119>We used the latter equipped with a carborundum disk about .020'' thick and 1'' dia. fitted on a 1/8'' dia. mandrel.</s>
+<s snum=120>Such disks are very handy for cutting and shaping small parts.</s>
+<s snum=121>File to a smooth finish.</s>
+<s snum=122>A Barrette Swiss pattern file is handy since its triangular shape with only one cutting face will allow you to work a surface without marring an adjoining one.</s>
+<s snum=123>Endeavor to get the notches as much alike as possible.</s>
+<s snum=124>The notch should have a smooth finish so that the steel dog will slide easily over it.</s>
+<s snum=125>Assemble the parts in the frame and test the sliding action of the mating pieces.</s>
+<s snum=126>All matching surfaces should be checked frequently and mated on a cut and fit basis.</s>
+</p>
+<p>
+<s snum=127>Chuck a 2'' or 3'' piece of 1/8'' dia. drill rod in a drill press or electric hand tool.</s>
+<s snum=128>Fashion a sharp scribing point about 3/64'' long on one end, using Swiss pattern files.</s>
+<s snum=129>This tool can also be made with a lathe.</s>
+</p>
+</txt>
+</doc>

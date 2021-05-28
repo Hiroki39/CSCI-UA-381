@@ -1,0 +1,114 @@
+<doc>
+<docno>br-j21</docno>
+<txt>
+<hl>INTRODUCTION.</hl>
+<p>
+<s snum=1>In @1 we investigate a new series of line involutions in a projective space of three dimensions over the field of complex numbers.</s>
+<s snum=2>These are defined by a simple involutorial transformation of the points in which a general line meets a nonsingular quadric surface bearing a curve of symbol **f.</s>
+<s snum=3>Then in @2 we show that any line involution with the properties that (a) It has no complex of invariant lines, and (b) Its singular lines form a complex consisting exclusively of the lines which meet a twisted curve, is necessarily of the type discussed in @1.</s>
+<s snum=4>No generalization of these results to spaces of more than three dimensions has so far been found possible.</s>
+</p>
+<hl>1.</hl>
+<p>
+<s snum=5>Let ~Q be a nonsingular quadric surface bearing reguli **f and **f, and let ~\g be a **f curve of order ~k on ~Q.</s>
+<s snum=6>A general line ~l meets ~Q in two points, **f and **f, through each of which passes a unique generator of the regulus, **f, whose lines are simple secants of ~\g.</s>
+<s snum=7>On these generators let **f and **f be, respectively, the harmonic conjugates of **f and **f with respect to the two points in which the corresponding generator meets ~\g.</s>
+<s snum=8>The line **f is the image of ~l.</s>
+<s snum=9>Clearly, the transformation is involutorial.</s>
+</p>
+<p>
+<s snum=10>We observe first that no line, ~l, can meet its image except at one of its intersections with ~Q.</s>
+<s snum=11>For if it did, the plane of ~l and ~l' would contain two generators of **f, which is impossible.</s>
+<s snum=12>Moreover, from the definitive transformation of intercepts on the generators of **f, it is clear that the only points of ~Q at which a line can meets its image are the points of ~\g.</s>
+<s snum=13>Hence the totality of singular lines is the ~kth order complex of lines which meet ~\g.</s>
+</p>
+<p>
+<s snum=14>The invariant lines are the lines of the congruence of secants of ~\g, since each of these meets ~Q in two points which are invariant.</s>
+<s snum=15>The order of this congruence is **f, since **f secants of a curve of symbol ~(a,b)on a quadric surface pass through an arbitrary point.</s>
+<s snum=16>The class of the congruence is **f, since an arbitrary plane meets ~\g in ~k points.</s>
+</p>
+<p>
+<s snum=17>Since the complex of singular lines is of order ~k and since there is no complex of invariant lines, it follows from the formula **f that the order of the involution is **f.</s>
+</p>
+<p>
+<s snum=18>There are various sets of exceptional lines, or lines whose images are not unique.</s>
+<s snum=19>The most obvious of these is the quadratic complex of tangents to ~Q, each line of which is transformed into the entire pencil of lines tangent to ~Q at the image of the point of tangency of the given line.</s>
+<s snum=20>Thus pencils of tangents to ~Q are transformed into pencils of tangents.</s>
+<s snum=21>It is interesting that a 1:1 correspondence can be established between the lines of two such pencils, so that in a sense a unique image can actually be assigned to each tangent.</s>
+<s snum=22>For the lines of any plane, ~|p, meeting ~Q in a conic ~C, are transformed into the congruence of secants of the curve ~C' into which ~C is transformed in the point involution on ~Q.</s>
+<s snum=23>In particular, tangents to ~C are transformed into tangents to ~C'.</s>
+<s snum=24>Moreover, if **f and **f are two planes intersecting in a line ~l, tangent to ~Q at a point ~P, the two free intersections of the image curves **f and **f must coincide at ~P', the image of ~P, and at this point **f and **f must have a common tangent ~l'.</s>
+<s snum=25>Hence, thought of as a line in a particular plane ~|p, any tangent to ~Q has a unique image and moreover this image is the same for all planes through ~l.</s>
+</p>
+<p>
+<s snum=26>Each generator, ~|l, of **f is also exceptional, for each is transformed into the entire congruence of secants of the curve into which that generator is transformed by the point involution on ~Q.</s>
+<s snum=27>This curve is of symbol **f since it meets ~|l, and hence every line of **f in the **f invariant points on ~|l and since it obviously meets every line of **f in a single point.</s>
+<s snum=28>The congruence of its secants is therefore of order **f and class **f.</s>
+</p>
+<p>
+<s snum=29>A final class of exceptional lines is identifiable from the following considerations: Since no two generators of **f can intersect, it follows that their image curves can have no free intersections.</s>
+<s snum=30>In other words, these curves have only fixed intersections common to them all.</s>
+<s snum=31>Now the only way in which all curves of the image family of **f can pass through a fixed point is to have a generator of **f which is not a secant but a tangent of ~\g, for then any point on such a generator will be transformed into the point of tangency.</s>
+<s snum=32>Since two curves of symbol **f on ~Q intersect in **f points, it follows that there are **f lines of **f which are tangent to ~\g.</s>
+<s snum=33>Clearly, any line, ~l, of any bundle having one of these points of tangency, ~T, as vertex will be transformed into the entire pencil having the image of the second intersection of ~l and ~Q as vertex and lying in the plane determined by the image point and the generator of **f which is tangent to ~\g at ~T.</s>
+<s snum=34>A line through two of these points, **f and **f, will be transformed into the entire bilinear congruence having the tangents to ~\g at **f and **f as directrices.</s>
+</p>
+<p>
+<s snum=35>A conic, ~C, being a (1, 1) curve on ~Q, meets the image of any line of **f, which we have already found to be a **f curve on ~Q, in **f points.</s>
+<s snum=36>Hence its image, ~C', meets any line of **f in **f points.</s>
+<s snum=37>Moreover, ~C' obviously meets any line **f in a single point.</s>
+<s snum=38>Hence ~C' is a **f curve on ~Q.</s>
+<s snum=39>Therefore, the congruence of its secants, that is the image of a general plane field of lines, is of order **f and class **f.</s>
+<s snum=40>Finally, the image of a general bundle of lines is a congruence whose order is the order of the congruence of invariant lines, namely **f and whose class is the order of the image congruence of a general plane field of lines, namely **f.</s>
+</p>
+<hl>2.</hl>
+<p>
+<s snum=41>The preceding observations make it clear that there exist line involutions of all orders greater than 1with no complex of invariant lines and with a complex of singular lines consisting exclusively of the lines which meet a twisted curve ~\g.</s>
+<s snum=42>We now shall show that any involution with these characteristics is necessarily of the type we have just described.</s>
+</p>
+<p>
+<s snum=43>To do this we must first show that every line which meets ~\g in a point ~P meets its image at ~P.</s>
+<s snum=44>To see this, consider a general pencil of lines containing a general secant of ~\G.</s>
+<s snum=45>By (1), the image of this pencil is a ruled surface of order **f which is met by the plane of the pencil in a curve, ~C, of order **f.</s>
+<s snum=46>On ~C there is a **f correspondence in which the **f points cut from ~C by a general line, ~l, of the pencil correspond to the point of intersection of the image of ~l and the plane of the pencil.</s>
+<s snum=47>Since ~C is rational, this correspondence has ~k coincidences, each of which implies a line of the pencil which meets its image.</s>
+<s snum=48>However, since the pencil contains a secant of ~\g it actually contains only **f singular lines.</s>
+<s snum=49>To avoid this contradiction it is necessary that ~C be composite, with the secant of ~\g and a curve of order **f as components.</s>
+<s snum=50>Thus it follows that the secants of ~\g are all invariant.</s>
+<s snum=51>But if this is the case, then an arbitrary pencil of lines having a point, ~P, of ~\g as vertex is transformed into a ruled surface of order **f having **f generators concurrent at ~P.</s>
+<s snum=52>Since a ruled surface of order ~n with ~n concurrent generators is necessarily a cone, it follows finally that every line through a point, ~P, of ~\g meets its image at ~P, as asserted.</s>
+</p>
+<p>
+<s snum=53>Now consider the transformation of the lines of a bundle with vertex, ~P, on ~\g which is effected by the involution as a whole.</s>
+<s snum=54>From the preceding remarks, it is clear that such a bundle is transformed into itself in an involutorial fashion.</s>
+<s snum=55>Moreover, in this involution there is a cone of invariant lines of order **f, namely the cone of secants of ~\g which pass through ~P.</s>
+<s snum=56>Hence it follows that the involution within the bundle must be a perspective de Jonquieres involution of order **f and the invariant locus must have a multiple line of multiplicity either **f or **f.</s>
+<s snum=57>The first possibility requires that there be a line through ~P which meets ~\g in **f points; the second requires that there be a line through ~P which meets ~\g in **f points.</s>
+<s snum=58>In each case, lines of the bundles are transformed by involutions within the pencils they determine with the multiple secant.</s>
+<s snum=59>In the first case the fixed elements within each pencil are the multiple secant and the line joining the vertex, ~P, to the intersection of ~\g and the plane of the pencil which does not lie on the multiple secant.</s>
+<s snum=60>In the second, the fixed elements are the lines which join the vertex, ~P, to the two intersections of ~\g and the plane of the pencil which do not lie on the multiple secant.</s>
+<s snum=61>The multiple secants, of course, are exceptional and in each case are transformed into cones of order **f.</s>
+</p>
+<p>
+<s snum=62>Observations similar to these can be made at each point of ~\g.</s>
+<s snum=63>Hence ~\g must have either a regulus of **f-fold secants or a regulus of **f-fold secants.</s>
+<s snum=64>Moreover, if **f, no two of the multiple secants can intersect.</s>
+<s snum=65>For if such were the case, either the plane of the two lines would meet ~\g in more than ~k points or, alternatively, the order of the image regulus of the pencil determined by the two lines would be too high.</s>
+<s snum=66>But if no two lines of the regulus of multiple secants of ~\g can intersect, then the regulus must be quadratic, or in other words, ~\g must be either a **f or a **f curve on a nonsingular quadric surface.</s>
+</p>
+<p>
+<s snum=67>We now observe that the case in which ~\g is a **f curve on a quadric is impossible if the complex of singular lines consists exclusively of the lines which meet ~\g.</s>
+<s snum=68>For any pencil in a plane containing a **f-fold secant of ~\g has an image regulus which meets the plane of the pencil in **f lines, namely the images of the lines of the pencil which pass through the intersection of ~\g and the multiple secant, plus an additional component to account for the intersections of the images of the general lines of the pencil.</s>
+<s snum=69>However, if there is no additional complex of singular lines, the order of the image regulus of a pencil is precisely **f.</s>
+<s snum=70>This contradicts the preceding observations, and so, under the assumption of this paper we must reject the possibility that ~\g is a **f curve on a quadric surface.</s>
+</p>
+<p>
+<s snum=71>Continuing with the case in which ~\g is a **f curve on a quadric ~Q, we first observe that the second regulus of ~Q consists precisely of the lines which join the two free intersections of ~\g and the planes through any one of the multiple secants.</s>
+<s snum=72>For each of these lines meets ~Q in three points, namely two points on ~\g and one point on one of the multiple secants.</s>
+</p>
+<p>
+<s snum=73>Now consider an arbitrary line, ~l, meeting ~Q in two points, **f and **f.</s>
+<s snum=74>If ~|a is the multiple secant of ~\g which passes through **f and ~|b is the simple secant of ~\g which passes through **f, and if **f are the points in which ~|a meets ~\g, and if **f is the image of **f on the generator ~|b, it follows that the image of the line **f is **f.</s>
+</p>
+</txt>
+</doc>

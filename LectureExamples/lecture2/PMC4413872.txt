@@ -1,0 +1,1004 @@
+
+Zygote
+
+Zygote
+
+ZYG
+
+Zygote (Cambridge, England)
+
+0967-1994
+
+1469-8730
+
+Cambridge University Press
+
+Cambridge, UK
+
+24134883
+
+4413872
+
+10.1017/S0967199413000439
+
+S0967199413000439
+
+00043
+
+Research Article
+
+in vitro
+
+ is dependent on the follicle size
+
+Kempisty
+
+ et al.
+
+INHβA and INHβB proteins in porcine oocytes
+
+Kempisty
+
+Bartosz
+
+1
+
+2
+
+3
+
+7
+
+Piotrowska
+
+Hanna
+
+4
+
+7
+
+Rybska
+
+Marta
+
+5
+
+Woźna
+
+Magdalena
+
+4
+
+Antosik
+
+Paweł
+
+5
+
+Bukowska
+
+Dorota
+
+5
+
+Zawierucha
+
+Piotr
+
+2
+
+3
+
+Ciesiółka
+
+Sylwia
+
+2
+
+Jaśkowski
+
+Jędrzej M.
+
+5
+
+Nowicki
+
+Michał
+
+2
+
+Brüssow
+
+Klaus-Peter
+
+6
+
+Zabel
+
+Maciej
+
+2
+
+1
+
+Department of Histology and Embryology
+
+Department of Anatomy
+
+Poznan University of Medical Sciences
+
+Poznan
+
+Poland
+
+.
+
+2
+
+Department of Histology and Embryology
+
+Poznan University of Medical Sciences
+
+60-781 Poznan
+
+Poland
+
+3
+
+Department of Anatomy
+
+Poznan University of Medical Sciences
+
+60-781 Poznan
+
+Poland
+
+4
+
+Department of Toxicology
+
+Poznan University of Medical Sciences
+
+60-631 Poznan
+
+Poland
+
+5
+
+Department of Veterinary Medicine
+
+Poznan University of Life Sciences
+
+60-628
+
+Poznan
+
+Poland
+
+6
+
+Institute of Reproductive Biology
+
+Department of Experimental Reproductive Biology
+
+Leibniz Institute for Farm Animal Biology
+
+Dummerstorf
+
+Germany
+
+7
+
+
+
+Both authors contributed equally to the work.
+
+Department of Histology and Embryology
+
+Department of Anatomy
+
+Poznan University of Medical Sciences
+
+Poznan
+
+Poland
+
++48 61 854 6419
+
++48 61 854 6455
+
+etok@op.pl
+
+4
+
+2015
+
+18
+
+10
+
+2013
+
+23
+
+2
+
+205
+
+211
+
+04
+
+3
+
+2013
+
+05
+
+8
+
+2013
+
+11
+
+8
+
+2013
+
+© Cambridge University Press 2013
+
+2013
+
+Cambridge University Press
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+>. The written permission of Cambridge University Press must be obtained for commercial re-use.
+
+
+
+Summary
+
+
+
+in vitro
+
+P
+
+P
+
+P
+
+ < 0.01). As INHβA and INHβB are expressed in both porcine follicular somatic cells and oocytes, it can be assumed that these transforming growth factor beta (TGFβ) superfamily factors are involved in the regulation of molecular bi-directional pathways during follicle and oocyte development, and can be recognized as markers of follicle and oocyte maturation. Moreover, the current study clearly demonstrated that inhibin expression is substantially associated with porcine follicle growth and development.
+
+
+
+
+Introduction
+
+The developmental competence of oocytes involves the ability of female gametes to mature, to support successful fertilization and normal zygote formation, and to ensure early embryonic development (Matzuk et al., 2002; Eppig et al., 2002; Krisher, 2004). During oocyte maturation, a large amount of mRNA is stored to form the template for protein biosynthesis during embryonic development prior to the activation of the embryonic genome (Humblot et al., 2005; Kawashima et al., 2008; Kempisty et al., 2011) and many molecular markers responsible for normal gamete maturation have been recognized (Kastrop et al., 1991; Tong et al., 2000; Narducci et al., 2002; Coticchio et al., 2004; Jaskowski et al., 2010). Recently, it has been shown that genes and encoded proteins belonging to the transforming growth factor beta (TGFβ) superfamily, including inhibins (INHs), may be involved in the regulation of important stages of the growth of follicles and oocytes. After the description of inhibin alpha (INHA) as a gonadal glycoprotein hormone and as a protein involved in regulation of follicle stimulating hormone (FSH) pituitary secretion by Bremner (1989), many reports have recognized new functions of this molecule, mostly related to hormonal regulation of reproductive processes. Inhibin exists in two forms, each of which contains the same alpha subunit covalently linked to one of two distinct subunits, called beta-a (INHβA) and beta-b (INHβB). It has been found that both INHβA and INHβB inhibit FSH secretion. The role of these inhibins in the regulation of feedback loops between the pituitary and ovary, as well as their influence on folliculogenesis, has been shown previously (Hua et al., 2008; Myers et al., 2009; Poon et al., 2009).
+
+The influence of follicle size on the ability of recovered oocytes to be fertilized in vitro or on early embryo development has been investigated in several reports, although only limited data have been published regarding the role of follicle size during oocyte maturation (Findlay et al., 2001; Sun et al., 2001; Antosik et al., 2009). Caixeta et al. (2009) found new markers in cumulus cells and oocytes that may be involved in achieving the oocyte developmental competence. However, the expression of INHβA and INHβB proteins in porcine oocytes recovered from follicles of different sizes and cultured in vitro has so far been only partially investigated (Kempisty et al., 2012). Therefore, the aim of the current work was to study the influence of follicular size on the expression of these proteins in porcine oocytes cultured in vitro.
+
+
+
+Materials and Methods
+
+
+Animals and recovery of cumulus–oocyte complexes (COCs)
+
+In total, 32 puberal crossbred Landrace × Polish Large White gilts with a mean age of 155 days (range 140–170 days) and a mean weight 100 kg (95–120 kg) were used in the current study. The animals were all kept under the same conditions and the experiments were approved by the local Ethics Committee.
+
+The ovaries and reproductive tracts were recovered from gilts immediately after slaughter and transported to the laboratory within 20 min at 38°C in 0.9% NaCl. Follicles were classified into three size categories: small (< 3 mm), medium (3–5 mm), or large (> 5 mm) using callipers.
+
+The follicles were aspirated by individual puncturing with a 20-G needle attached to a 5 ml syringe and the follicle contents collected were released into sterile Petri dishes. The recovered COCs were washed three times in modified phosphate-buffered saline (PBS) supplemented with 36 μg/ml pyruvate, 50 μg/ml gentamycin and 0.5 mg/ml bovine serum albumin (BSA; Sigma-Aldrich, St. Louis, MO, USA). They were selected under an inverted Zeiss microscope (Axiovert 35, Lübeck, Germany), counted and morphology was evaluated using the scale suggested by Jackowska et al. (2009). Only COCs with homogenous ooplasm and having uniform and compact cumulus cells were considered for use in the subsequent steps of the experiment.
+
+
+
+Assessment of oocyte developmental competence by brilliant cresyl blue (BCB) test
+
+Before cultivation, COCs were washed twice in modified Dulbecco PBS (DPBSm, Sigma-Aldrich) supplemented with 50 IU/ml penicillin, 50 μg/ml streptomycin (Sigma-Aldrich), 0.4% [w/v] BSA, 0.34 mM pyruvate and 5.5 mM glucose. The COCs were then treated with 26 μM BCB (Sigma-Aldrich, St. Louis, MO, USA) diluted in DPBSm at 38.5°C, under 5% CO2 in air for 90 min. After treatment, the oocytes were transferred to DPBSm and washed twice. During the washing procedure, the oocytes were examined under an inverted microscope and classified as either having stained blue (BCB+) or remained colourless (BCB−). Only BCB+ oocytes, which may have reached developmental competence, were used in the experiment.
+
+
+
+In vitro maturation of porcine COCs
+
+The selected BCB+ COCs were cultured in Nunclon™ Δ 4-well dishes (Nunc, GmbH, Co. KG, Germany) in 500 μl standard porcine in vitro maturation (IVM) medium (TCM-199 with Earle's salts and l-glutamine, Gibco BRL Life Technologies, Grand Island, NY, USA) supplemented with 2.2 mg/ml sodium bicarbonate (Nacalai Tesque, Inc., Kyoto, Japan), 0.1 mg/ml sodium pyruvate (Sigma-Aldrich, St. Louis, MO, USA), 10 mg/ml BSA (Sigma-Aldrich), 0.1 mg/ml cysteine (Sigma-Aldrich), 10% (v/v) filtered porcine follicular fluid, and gonadotropin supplements at final concentrations of 2.5 IU/ml human chorionic gonadotropin (hCG; Ayerst Laboratories, Inc., Philadelphia, PA, USA) and 2.5 IU/ml equine chorionic gonadotropin (eCG; Intervet, Whitby, ON, Canada). Wells were covered with a mineral oil overlay and cells were cultured for 44 h at 38°C under 5% CO2 in air. The COCs were incubated with bovine testicular hyaluronidase (BTH; Sigma-Aldrich, St. Louis, MO, USA) for 2 min at 38.5°C then agitated by vortexing to separate the cumulus cells. The cumulus cell-free oocytes were used for further analysis. Thereafter, western blot assay was performed to analyse proteins expression in oocytes isolated from large, medium and small follicles before and after IVM.
+
+
+
+Sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE) and western blotting analysis
+
+Oocytes isolated from large (n = 40), medium (n = 40) and small (n = 40) follicles were treated with RIPA lysis buffer. The concentration of proteins was estimated at 10 μg. Thereafter, the proteins were re-suspended in sample buffer and separated on a 10% Tris–glycine gel using SDS-PAGE. Gel proteins were transferred to nitrocellulose, which was blocked with 5% milk in Tris-buffered saline/Tween. Immunodetection was performed overnight with a goat polyclonal anti-INHβA antibody (Ab, sc-22048) or a rabbit polyclonal anti- INHβB (Ab, sc-50288) both in 1:1000 concentration (Santa Cruz Biotechnology, Santa Cruz, CA, USA), followed by incubation with donkey anti-goat Abs conjugated to horseradish peroxidase (HRP) at 1.5 h in concentration 1:5000. The membranes were also incubated with an anti-actin HRP-conjugated Ab (clone I-19; Santa Cruz Biotechnology, Santa Cruz, CA, USA) to ensure equal protein loading of the lanes.
+
+Bands were revealed using SuperSignal West Femto maximum sensitivity substrate (Pierce Biotechnology Inc., Rockford, IL, USA). The expression levels of investigated proteins were evaluated using densitometric analyses (GelDoc iT Imaging System, Eppendorf).
+
+
+
+Statistical analysis
+
+Analysis of variance (ANOVA) followed by the Tukey post test was used to compare the results of western blot and densitometric analyses of protein levels. There were at least three replicates for each experiment and differences were considered significant at *P < 0.05, **P < 0.01 and ***P < 0.001. The software program GraphPad Prism version 4.0 (GraphPad Software, San Diego, CA) was used for the statistical calculations.
+
+
+
+
+Results
+
+In the current study, INHβA and INHβB protein expression was analysed in porcine oocytes isolated from large, medium or small follicles before or after IVM. Based on optical density analysis, a larger expression of INHβA protein prior to IVM was found in oocytes collected from large and medium follicles compared with small follicles (P < 0.001) (Fig. 1A,B). After IVM, expression of this protein was higher in oocytes isolated from large follicles compared to medium and small follicles (P < 0.01 and P < 0.001, respectively) (Fig. 2A,B). An increased level of INHβA protein was also observed in oocytes collected from medium follicles compared with small follicles (P < 0.001, P < 0.05) (Figs. 1 and 2). INHβB was always highly expressed in oocytes isolated from large and medium follicles compared to small follicles (P < 0.01), both before (Fig. 1C, D) and after IVM (Fig. 2C, D). However, no significant differences were observed in either protein expression before or after IVM.
+
+Figure 1
+
+Western blot and optical density analysis of INHβA and INHβB proteins expression before in vitro maturation (IVM). A goat polyclonal anti-INHβA antibody (Ab) and goat polyclonal anti-INHβB Ab (A–D), followed by incubation with donkey anti-goat HRP-conjugated Abs, were used for western blot analysis. To equalize the protein loading, the membrane was reblotted with an anti-actin HRP-conjugated Ab. Optical density (OD) was evaluated using Gel Logic 200 Imaging System (Kodak, Rochester, NY, USA). *P < 0.05, **P < 0.01, ***P < 0.001 were determined as the levels of significance and present the differences between the expression of INHβA and INHβB before IVM (A–D). Results are presented as the mean ± standard error of the mean (SEM) with the level of significance, *P < 0.05, **P < 0.01, ***P < 0.001. L, large follicles; M, medium follicles; S, small follicles.
+
+
+Figure 2
+
+Western blot and optical density analysis of INHβA and INHβB proteins expression after in vitro maturation (IVM). A goat polyclonal anti-INHβA and goat polyclonal anti-INHβB Ab (A–D), followed by incubation with donkey anti-goat horseradish peroxidase (HRP)-conjugated Abs, were used for western blot analysis. To equalize the protein loading, the membrane was reblotted with an anti-actin HRP-conjugated Ab. Optical density (OD) was evaluated using Gel Logic 200 Imaging System (Kodak, Rochester, NY, USA). *P < 0.05, **P < 0.01, ***P < 0.001 were determined as the levels of significance and present the differences between the expression of INHβA and INHβB after IVM (A–D). Results are presented as the mean ± standard error of the mean (SEM) with the level of significance, *P < 0.05, **P < 0.01, ***P < 0.001. L, large follicles; M, medium follicles; S, small follicles.
+
+
+
+
+Discussion
+
+Growth and development of follicles during the process of folliculogenesis depends, amongst other things, on normal communication-systemic signals from transduction pathways between ovarian stromal cells and/or granulosa cells and oocytes (Elvin et al., 2000; Gilchrist et al., 2004a,b). It has recently been shown that several growth factors, especially transforming growth factor beta (TGFB) proteins, belong to the group of elements regulating these processes (Knight & Glister, 2003, 2006; Lee et al., 2008; Li et al., 2008; Byung et al., 2011). Moreover, TGFβ superfamily proteins are most frequently described as intra-ovarian regulators of folliculogenesis (Benahmed et al., 1993; Brankin et al., 2005).
+
+Inhibins and activins, which belong to the TGFβ superfamily, act together via paracrine and endocrine mechanisms as key modulators of follicle development. It has also recently been shown that INHs may act as regulators of oogenesis and could be markers of the developmental potential of oocytes (Deffieux & Antoine, 2003). However, differences in the expression of INH isoforms in immature and mature oocytes have not yet been investigated. Correlation between follicle growth and expression of these follicle developmental ability markers in relation to the oocyte maturation stage would indicate that they are important markers of both folliculogenesis and oogenesis in pigs.
+
+Zhang et al. (2012) showed that, in mice, both inhibin A and activin A significantly increased the maturation rate of oocytes, the ability to be fertilized and the blastocyst rate. Li et al. (2008), who studied the effect of immunization against inhibin on follicle growth and oocyte maturation in water buffaloes, observed that vaccination against inhibins stimulated follicular development and enhanced both the quality and the competence of oocytes, resulting in an increased ability to develop into embryos both in vitro and in vivo.
+
+The expression of INH isoforms and their tissue- or cell-specific distribution has also been described recently. Poon et al. (2009) analysed INHA expression levels and tissue-specific localization in zebrafish and observed that these isoforms are localized in the gonads, with no detectable expression in the pituitary or brain. In the ovary, both INHA and INHBB were expressed in somatic follicular cells surrounding the oocytes, but not in single unfertilized zebrafish eggs. Moreover, the expression of INH isoforms was significantly decreased in follicles whose oocytes were undergoing spontaneous maturation or had reached the germinal vesicle breakdown (GVBD) stage. In contrast with zebrafish, the current paper found that INH isoforms were expressed similarly in immature (before) and mature (after IVM) porcine oocytes and that expression was significantly dependent on the follicle size, i.e. related to follicle growth.
+
+Geng et al. (2008) investigated the effect of INHA over-expression on granulosa cell (GC) proliferation, apoptosis, steroidogenesis and development of bovine oocytes in a co-culture model. They analysed the effect of transfected GCs (pEGISI) on oocyte maturation and early embryo growth in vitro and found that over-expression of INHA regulated GC development, but the effect on oocytes growth was both time- and stage-dependent.
+
+In a similar study to the current one, Pfeffer et al. (2007) analysed the developmental competence of bovine oocytes, characterized by their ability to mature, to be fertilized and to reach the blastocyst stage in relation to follicular growth and development: they revealed significant changes in the gene expression profile of the activin/inhibin pathways, amongst others. The current results clearly demonstrated that expression of inhibins is significantly associated with the growth and development of porcine follicles. Therefore, it may be suggested that inhibins belong to the group of proteins that may be used as markers of follicle growth. However, in the current study the expression of INHβA and INHβB did not differ significantly in relation to oocyte maturation ability, analysed before or after IVM. Therefore, it may be suggested that inhibins and related biochemical pathways regulate important stages of follicle growth during folliculogenesis but not oocyte maturation ability during oogenesis.
+
+A previous study by the present authors, using confocal microscopic observations, similarly indicated that porcine oocytes isolated from large and medium follicles display higher expression of TGFβ isoforms (Jackowska et al., 2013). Although confocal microscope observations did not reveal significant differences in INHA expression in porcine oocytes before or after IVM, this protein was distributed variably: in the peripheral area of the cytoplasm in oocytes isolated from large follicles, but throughout the cytoplasm in those from small follicles. However, INHBB showed higher expression in oocytes collected from small follicles and was distributed throughout the cytoplasm (Kempisty et al., 2012). Moreover, these recently published data indicated that INHβA mRNA expression was increased in oocytes from large compared with medium and small follicles before IVM, and to oocytes of small follicles after IVM. The INHβB expression was not different before IVM, but the IHNβB mRNA level was slightly higher in oocytes from large follicles after IVM (Kempisty et al., 2012).
+
+In contrast with these observations, Miller et al. (1991) investigated the inhibin concentration in individual porcine follicles from gilts ovariectomized at various times after the onset of oestrus (Miller et al., 1991). They observed that the concentration of inhibin did not vary over time, nor did the total follicular content of inhibin. However, the inhibin concentration differs significantly in relation to oocyte maturation ability. Miller et al. (1991) found that concentration of inhibin in follicles with a germinal vesicle-stage oocyte was decreased as compared with follicles with more mature oocytes. It may be suggested that inhibins significantly influenced oocyte maturation and that inhibins concentration correlates with follicle size in pigs. These different observations, however, may be due to the methods used in the experiments: non-parametric confocal microscope observations and parametric western blot assays with optical density analysis as well as measurements of inhibins in porcine follicular fluids with a radioimmunoassay.
+
+In conclusion, taking into account both the current study and recently published data, it may be suggested that inhibin proteins and mRNA expression as well as subcellular distribution significantly determine oocyte maturation ability and follicle growth in pigs; however it depends on the methods used. Moreover, it can be assumed that these TGFβ superfamily factors significantly regulated porcine follicle normal growth.
+
+
+
+
+Acknowledgements
+
+This study was made possible by grants number 2011/03/B/NZ4/02411 ‘OPUS’ from the Polish Ministry of Scientific Research and Higher Education.
+
+
+Conflicts of interest
+
+The authors declare no conflicts of interest.
+
+
+
+References
+
+AntosikP.
+, 
+KempistyB.
+, 
+BukowskaD.
+, 
+JackowskaM.
+, 
+WlodarczykR.
+, 
+BudnaJ.
+, 
+BrussowK.P.
+, 
+LianeriM.
+, 
+JagodzinskiP.P.
+ & 
+JaskowskiJ.M.
+ (2009). 
+Follicular size is associated with the levels of transcripts and proteins of selected molecules responsible for the fertilization ability of oocytes of puberal gilts
+. 
+J. Reprod. Dev.
+55, 588–93.19672040
+
+
+BenahmedM.
+, 
+MoreraA.M.
+, 
+GhiglieriC.
+, 
+TaboneE.
+, 
+MenezoY.
+, 
+HendrickJ.C.
+ & 
+FranchimontP.
+ (1993). 
+Transforming growth factor-beta(s) in the ovary
+. 
+Ann. N Y Acad. Sci.
+687, 13–98323168
+
+
+BrankinV.
+, 
+QuinnR.L.
+, 
+WebbR.
+ & 
+HunterM.G.
+ (2005). 
+Evidence for a functional bone morphogenetic protein (BMP) system in the porcine ovary
+. 
+Dom. Anim. Endocrinol.
+28, 367–79.
+
+
+BremnerW.J.
+ (1989). 
+Inhibin: from hypothesis to clinical application
+. 
+(Editorial) New England J. Med.
+321, 826–7.
+
+
+ByungC.J.
+, 
+LeeJ.R.
+, 
+ChangS.S.
+, 
+SeokH.K.
+ & 
+ShinY.M.
+ (2011). 
+Follicular fluid growth differentiation factor-9 concentration and oocyte developmental competence
+. 
+J. Womens Med.
+4, 1–5.
+
+
+CaixetaE.S.
+, 
+RipamonteP.
+, 
+FrancoM.M.
+, 
+JuniorJ.B.
+ & 
+DodeM.A.
+ (2009). 
+Effect of follicle size on mRNA expression in cumulus cells and oocytes of Bos indicus: an approach to identify marker genes for developmental competence
+. 
+Reprod. Fertil. Dev
+. 21, 655–64.19486602
+
+
+CoticchioG.
+, 
+SereniE.
+, 
+SerraoL.
+, 
+MazzoneS.
+, 
+IadarolaI.
+ & 
+BoriniA.
+ (2004). 
+What criteria for the definition of oocyte quality?
+
+Review. Ann. NY Acad. Sci.
+1034, 1132–44.
+
+
+DeffieuxX.
+ & 
+AntoineJ.M.
+ (2003). 
+Inhibins, activins and anti-Müllerian hormone: structure, signalling pathways, roles and predictive value in reproductive medicine
+. 
+Gynecol. Obstet. Fertil
+. 31, 900–11 [in French].14623553
+
+
+ElvinJ.A.
+, 
+YanC.
+ & 
+MatzukM.M.
+ (2000). 
+Oocyte-expressed TGF-beta superfamily members in female fertility
+. 
+Mol. Cell. Endocrinol.
+159, 1–5.10687846
+
+
+EppigJ.J
+, 
+WigglesworthK.
+ & 
+PendolaF.L.
+ (2002). 
+The mammalian oocyte orchestrates the rate of ovarian follicular development
+. 
+Proc. Natl. Acad. Sci. USA
+99, 2890–4.11867735
+
+
+FindlayJ.K.
+, 
+DrummondA.E.
+, 
+DysonM.
+, 
+BaillieA.J.
+, 
+RobertsonD.M.
+ & 
+EthierJ.F.
+ (2001). 
+Production and actions of inhibin and activin during folliculogenesis in the rat
+. 
+Mol. Cell Endocrinol
+. 180, 139–44.11451583
+
+
+GengL.Y.
+, 
+FangM.
+, 
+YiJ.M.
+, 
+JiangF.
+, 
+Moeen-ud-DinM.
+ & 
+YangL.G.
+ (2008). 
+Effect of overexpression of inhibin alpha (1–32) fragment on bovine granulosa cell proliferation, apoptosis, steroidogenesis, and development of co-cultured oocytes
+. 
+Theriogenology
+70, 35–43.18456314
+
+
+GilchristR.B.
+, 
+RitterL.J.
+ & 
+ArmstrongD.T.
+ (2004a). 
+Oocyte–somatic cell interactions during follicle development in mammals
+. 
+Anim. Reprod. Sci.
+82–83, 431–46.
+
+
+GilchristR.B.
+, 
+RitterL.J.
+, 
+CranfieldM.
+, 
+JefferyL.A.
+, 
+AmatoF.
+, 
+ScottS.J.
+, 
+MyllymaaS
+, 
+Kaivo-OjaN.
+, 
+LankinenH.
+ & 
+MottersheadD.G.
+ (2004b) 
+Immunoneutralization of growth differentiation factor 9 reveals it partially accounts for mouse oocyte mitogenic activity
+. 
+Biol. Reprod.
+71, 732–9.15128595
+
+
+HuaV.K.
+, 
+FlemingS.D.
+ & 
+IllingworthP.
+ (2008). 
+Effects of protein kinase A and C inhibitors on follicular inhibin and activin during ovulation
+. 
+Reprod. Biomed Online
+17, 642–51.18983748
+
+
+HumblotP.
+, 
+HolmP.
+, 
+LonerganP.
+, 
+WrenzyckiC.
+, 
+LequarreA.S.
+, 
+JolyC.G.
+, 
+HerrmannD.
+, 
+LopesA.
+, 
+RizosD.
+, 
+NiemannH.
+ & 
+CallesenH.
+ (2005). 
+Effect of stage of follicular growth during superovulation on developmental competence of bovine oocytes
+. 
+Theriogenology
+63, 1149–66.15710200
+
+
+JackowskaM.
+, 
+KempistyB.
+, 
+AntosikP.
+, 
+BukowskaD.
+, 
+BudnaJ.
+, 
+LianeriM.
+, 
+RosinskaE.
+, 
+WoznaM.
+, 
+JagodzinskiP.P.
+ & 
+JaskowskiJ.M.
+ (2009). 
+The morphology of porcine oocytes is associated with zona pellucida glycoprotein transcript contents
+. 
+Reprod. Biol.
+9, 79–85.19352420
+
+
+JackowskaM.
+, 
+KempistyB.
+, 
+WoznaM.
+, 
+PiotrowskaH.
+, 
+AntosikP.
+, 
+ZawieruchaP.
+, 
+BukowskaD.
+, 
+NowickiM.
+, 
+JaśkowskiJ.M.
+ & 
+BrussowK.P.
+ (2013). 
+Differential expression of GDF9, TGFB1, TGFB2 and TGFB3 in porcine oocytes isolated from follicles of different size before and after culture in vitro
+. 
+Acta Vet. Hung.
+61, 170–8.
+
+
+JaskowskiJ.M.
+, 
+KempistyB.
+, 
+WoznaM.
+, 
+WalczakR.
+, 
+SzczepanskaP.
+, 
+DziubanJ.
+ & 
+AntosikP.
+ (2010). 
+Selected methods of assessing the developmental competence of bovine oocytes and embryos
+. 
+Medycyna Wet
+66, 740–4.
+
+
+KastropP.M.M.
+, 
+HulshofS.C.J.
+, 
+BeversM.M.
+, 
+DestreeO.H.J.
+ & 
+KruipTh.A.M.
+ (1991). 
+The effects of α-amanitin and cycloheximide on nuclear progression, protein synthesis and phosphorylation during bovine oocytes maturation in vitro
+. 
+Mol. Reprod. Dev.
+28, 249–54.2015083
+
+
+KawashimaI.
+, 
+OkazakiT.
+, 
+NomaN.
+, 
+NishiboriM.
+, 
+YamashitaY.
+ & 
+ShimadaM.
+ (2008). 
+Sequential exposure of porcine cumulus cells to FSH and/or LH is critical for appropriate expression of steroidogenic and ovulation-related genes that impact oocyte maturation in vivo and in vitro
+. 
+Reproduction
+136, 9–21.18456902
+
+
+KempistyB.
+, 
+JackowskaM.
+, 
+BukowskaD.
+, 
+AntosikP.
+, 
+WoźnaM.
+, 
+PiotrowskaH.
+, 
+SwierczewskaM.
+ & 
+JaskowskiJ.M.
+ (2011). 
+Mechanisms regulating oogenesis, folliculogenesis and fertilization in pigs
+. 
+Medycyna Wet
+67, 299–303.
+
+
+KempistyB.
+, 
+JackowskaM.
+, 
+WoznaM.
+, 
+AntosikP.
+, 
+PiotrowskaH.
+, 
+ZawieruchaP.
+, 
+BukowskaD.
+, 
+JaśkowskiJ.M.
+, 
+NowickiM.
+, 
+BrussowK.P
+ (2012). 
+Expression and cellular distribution of INHA and INHB in porcine oocytes isolated from different size of follicles before and after in vitro cultivation
+. 
+J. Biomed. Biotechnol
+. 2012, 742829.
+
+
+KnightP.G.
+ & 
+GlisterC.
+ (2003). 
+Local roles of TGF-beta superfamily members in the control of ovarian follicle development
+. 
+Anim. Reprod. Sci.
+78, 165–83.12818643
+
+
+KnightP.G.
+ & 
+GlisterC.
+ (2006). 
+TGF-β superfamily members and ovarian follicle development. Review
+. 
+Reproduction
+132, 191–206.16885529
+
+
+KrisherR.L.
+ (2004). 
+The effect of oocyte quality on development. Review
+. 
+J. Anim. Sci.
+82 (E-Suppl), 14–23.
+
+
+LeeG.S.
+, 
+KimH.S.
+, 
+HwangW.S.
+ & 
+HyunS.H.
+ (2008). 
+Characterization of porcine growth differentiation factor-9 and its expression in oocyte maturation
+. 
+Mol. Reprod. Dev.
+75, 707–14.17924528
+
+
+LiH.K.
+, 
+KuoT.Y.
+, 
+YangH.S.
+, 
+ChenL.R.
+, 
+LiS.S.
+ & 
+HuangH.W.
+ (2008). 
+Differential gene expression of bone morphogenetic protein 15 and growth differentiation factor 9 during in vitro maturation of porcine oocytes and early embryos
+. 
+Anim. Reprod. Sci.
+103, 312–22.17222994
+
+
+MatzukM.M
+, 
+BurnsK.H
+, 
+ViveirosM.M.
+ & 
+EppigJ.J.
+ (2002). 
+Intercellular communication in the mammalian ovary: oocytes carry the conversation. Review
+. 
+Science
+21, 178–80.
+
+
+MillerK.F.
+, 
+XieS.
+ & 
+PopeW.F.
+ (1991). 
+Immunoreactive inhibin in follicular fluid is related to meiotic stage of the oocyte during final maturation of the porcine follicle
+. 
+Mol. Reprod. Dev.
+28, 35–9.1994978
+
+
+MyersM.
+, 
+MiddlebrookB.S.
+, 
+MatzukM.M.
+ & 
+PangasS.A.
+ (2009). 
+Loss of inhibin alpha uncouples oocyte–granulosa cell dynamics and disrupts postnatal folliculogenesis
+. 
+Dev. Biol.
+334, 458–67.19666016
+
+
+NarducciM.G.
+, 
+FiorenzaM.T.
+, 
+KangS.M.
+, 
+BevilacquaA.
+, 
+Di GiacomoM.
+, 
+RemottiD.
+, 
+PicchioM.C.
+, 
+FidanzaV.
+, 
+CooperM.D.
+, 
+CroceC.M.
+, 
+MangiaF.
+ & 
+RussoG.
+ (2002). 
+TCL1 participates in early embryonic development and is overexpressed in human seminomas
+. 
+Proc. Natl. Acad. Sci. USA
+99, 11712–7.12181493
+
+
+PfefferP.L.
+, 
+SiscoB.
+, 
+DonnisonM.
+, 
+SomersJ.
+ & 
+SmithC.
+ (2007). 
+Isolation of genes associated with developmental competency of bovine oocytes
+. 
+Theriogenology
+68 (Suppl 1), 84–90.
+
+
+PoonS.K.
+, 
+SoW.K.
+, 
+YuX.
+, 
+LiuL.
+ & 
+GeW.
+ (2009). 
+Characterization of inhibin alpha subunit (inha) in the zebrafish: evidence for a potential feedback loop between the pituitary and ovary
+. 
+Reproduction
+138, 709–19.19602521
+
+
+SunQ.Y.
+, 
+LaiL.
+, 
+BonkA.
+, 
+PratherR.S.
+ & 
+SchattenH.
+ (2001). 
+Cytoplasmic changes in relation to nuclear maturation and early embryo developmental potential of porcine oocytes: effects of gonadotropins, cumulus cells, follicular size, and protein synthesis inhibition
+. 
+Mol Reprod Dev
+2001; 59, 192–8.11389554
+
+
+TongZ.B.
+, 
+GoldL.
+, 
+PfeiferK.E.
+, 
+DorwardH.
+, 
+LeeE.
+, 
+BondyC.A.
+, 
+DeanJ.
+ & 
+NelsonL.M.
+ (2000). 
+Mater, a maternal effect gene required for early embryonic development in mice
+. 
+Nat. Genet.
+26, 267–8.11062459
+
+
+ZhangL.
+, Liang, X. & 
+Jiang
+, X.H. (2012). 
+The effects of activin A and inhibin A on the IVM of mice immature oocytes
+. S 
+ichuan Da Xue Xue Bao Yi Xue Ban
+43, 348–51.
